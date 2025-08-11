@@ -1,0 +1,19 @@
+/*@font-face {
+  font-family: 'MinecraftTenv2';
+  src: url('/Minecraft-Tenv2.woff2');
+}
+
+@font-face {
+  font-family: 'MinecraftSevenv2';
+  src: url('/Minecraft-Sevenv2.woff2');
+}*/
+
+:root {
+  --vp-font-family-base: 'Inter', sans-serif;
+  --vp-font-family-mono: 'Google Sans Code', monospace;
+  font-optical-sizing: auto;
+}
+
+/*.heading {
+  font-family: 'MinecraftSevenv2';
+}*/

@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.9"
+  },
+  "scripts": {
+    "d": "vitepress dev",
+    "b": "vitepress build",
+    "p": "vitepress preview",
+    "s": "npm run b && scp -i ~/.ssh/i_rsa -r .vitepress/dist/* onedot@48.210.67.230:/var/www/sekai.1dot.cat/dist"
+  }
+}

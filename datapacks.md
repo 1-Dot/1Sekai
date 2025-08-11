@@ -2,7 +2,7 @@
 
 以下数据包的详细介绍请参阅 Modrinth 链接或数据包自己的 Wiki
 
-其中 [Incendium](/incendium.md)、[Stellarity](/stellarity.md)、[Dungeons and Taverns](/dnt.md) 体量过大，移至单独页面介绍
+其中 [Stellarity](/stellarity.md)、[Dungeons and Taverns](/dnt.md) 体量过大，移至单独页面介绍
 
 ## 主世界生成
 
@@ -45,7 +45,6 @@
 - GM4 Shapeless Portals
 - Hopo Better Mineshaft
 - Hopo Better Underwater Ruins
-- Incendium
 - Pale Formations
 - Player Drops Head
 - Silk Touch Budding Amethyst

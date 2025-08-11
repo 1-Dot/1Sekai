@@ -49,14 +49,13 @@ export default defineConfig({
         items: [
           { text: '快速入门', link: '/getting-started' },
           { text: '服务器须知', link: '/rules' },
-          { text: '使用旧存档', link: '/legacy' }
+          { text: '关于上周目', link: '/legacy' }
         ],
       },
       {
         text: '大型数据包',
         items: [
           { text: 'Stellarity 末地', link: '/stellarity' },
-          { text: 'Incendium 下界', link: '/incendium' },
           { text: '地牢与酒馆', link: '/dnt' }
         ]
       },

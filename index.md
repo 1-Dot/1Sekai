@@ -24,9 +24,9 @@ hero:
       link: https://space.bilibili.com/180186596
 
 features:
-  - title: ✨ 2025.8.8 更新内容
-    details: 铁砧移除过于昂贵，砂轮可转移附魔到书上<br>更换了新的传送路石模组<br>加入 PVP 切换<br>加入快速潜影盒服务端支持<br>加入格式化聊天<br>加入玩家掉头和强制头戴物品<br>狐狸、猪灵、苦力怕新材质，新唱片和音效
-    link: /mods.md#铁砧与砂轮
+  - title: ✨ 2025.8.14 更新内容 • Wiki 稍后更新
+    details: 删除了大部分自然区块<br>加入潜行亲亲<br>✨加入建筑法杖<br>✨加入 Friends & Foes (投票落选生物)<br>✨加入农夫乐事、多趣乐事、装箱乐事、存储乐事<br>加入地牢与酒馆系列的大部分大改原版结构数据包<br>加入 1Sekai 游戏窗口标题和 Esc 界面菜单<br>资源包内容调整，更多 Lena Raine 唱片
+    link: /mods.md#完整列表参考
     linkText: 去看详细信息
   - icon: 🧊
     title: 香草

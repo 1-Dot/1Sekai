@@ -45,7 +45,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '基本',
+        text: '基本信息',
         items: [
           { text: '快速入门', link: '/getting-started' },
           { text: '服务器须知', link: '/rules' },
@@ -53,14 +53,16 @@ export default defineConfig({
         ],
       },
       {
-        text: '大型数据包',
+        text: '大型拓展玩法',
         items: [
+          { text: '农夫乐事', link: '/delight' },
+          { text: '地牢与酒馆', link: '/dnt' },
           { text: 'Stellarity 末地', link: '/stellarity' },
-          { text: '地牢与酒馆', link: '/dnt' }
+          { text: 'Friends & Foes', link: '/fnf' },
         ]
       },
       {
-        text: '参考',
+        text: '小内容介绍',
         items: [
           { text: '模组说明', link: '/mods' },
           { text: '数据包说明', link: '/datapacks' },

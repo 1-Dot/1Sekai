@@ -1,6 +1,8 @@
 # 模组说明
 
-这些都是服务端模组，对客户端没有任何要求
+这些都是服务端模组，对客户端没有任何强制要求
+
+[Friends & Foes](/fnf.md)、[农夫乐事](/delight.md) 模组体量过大，移至单独页面介绍
 
 ## 传送路石
 
@@ -60,6 +62,22 @@
 > 使用砂轮转移附魔到书上时，请时刻关注左下角位于 GUI 遮罩后的聊天栏信息（模组经 1Dot 修改实现）
 >
 > 你也可以选择[下载客户端模组](https://modrinth.com/mod/grind-enchantments/versions)获得如上图更原生的 GUI 显示
+
+## 建筑手杖 Construction Wand
+
+请先参阅 Modrinth 页面或 MC 百科，此部分稍后更新
+
+## 国际象棋 PolyChess
+
+将黑色或白色混凝土放入切石机，即可获得国际象棋棋子
+
+![](https://cdn.modrinth.com/data/cached_images/f2a72e1dc7c6cf4e3d249906fbc84bccbde37da6.png)
+
+## 亲亲
+
+> 这是表示 Kiss，而不是玩家繁殖
+
+在其他玩家身边快速切换潜行即可冒爱心，或者你也可以使用 `/kiss <player>`
 
 ## PVP 切换
 
@@ -155,30 +173,48 @@
 - Chat History
 - Cloth Config
 - Collective
+- Comkiss
+- Construction Wand
+- Construction Wand Polymer
+- Crate Delight
+- Crate Delight Patch
 - Disable Portal Checks
 - Double Doors
 - Easy Auth
 - Enchantments Unbound
+- Expanded Trident Enchanting
 - Fabric Api
 - Fabric Language Kotlin
+- Farmer's Delight
+- Farmer's Delight Polymer Patch
 - FConfigLib
 - Ferrite Core
 - Floodgate
+- Friends & Foes
+- Friends & Foes - Beekeeper Hut
+- Friends & Foes - Flowey Mooblooms
+- Friends & Foes Patch
 - Get It Together, Drops
 - Geyser
 - Grind Enchantments (1Dot 修改)
 - InvView
 - Jade
 - Jukebox Custom Disc Fix
+- Krypton
 - Ksyxis
 - Ledger
 - Let Me Despawn
 - Lithium
 - Log Webhook (1Dot 私有)
-- Modern Netty
+- More Delight
+- More Delight Patch
+- NBT Copy
 - No Creeper Grief
 - Noisium
+- OwO Lib
 - Player Ladder
+- PolyChess
+- Polymer
 - PVP Toggle
 - Quick Shulker
 - Resourceful Config
@@ -191,9 +227,12 @@
 - Slumber
 - Spark
 - Squaremap
-- Serverside Waystones
+- Serverside Waystones (1Dot 修改)
+- Storage Delight
+- Storage Delight Patch
 - Structure Layout Optimizer
 - Styled Chat
 - Very Many Players
 - ViaBackwards
 - ViaFabric
+- Yet Another Config Lib

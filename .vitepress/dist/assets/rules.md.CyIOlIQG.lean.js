@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as t,af as o}from"./chunks/framework.DJPGobOp.js";const _=JSON.parse('{"title":"服务器须知","description":"","frontmatter":{},"headers":[],"relativePath":"rules.md","filePath":"rules.md"}'),p={name:"rules.md"};function l(s,e,c,d,n,i){return t(),r("div",null,e[0]||(e[0]=[o("",16)]))}const m=a(p,[["render",l]]);export{_ as __pageData,m as default};

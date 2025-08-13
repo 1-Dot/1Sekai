@@ -166,6 +166,16 @@
 
 被生物攻击时有 30%（每级 +15%）几率获得 1-3 秒的力量 I 效果。
 
+## 原版结构大修
+
+- [DnT Ancient City Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul) 远古城市大修
+- [DnT Desert Temple Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-desert-temple-overhaul) 沙漠神殿大修
+- [DnT Jungle Temple Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-jungle-temple-overhaul) 丛林神庙大修
+- [DnT Nether Fortress Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-nether-fortress-overhaul) 下界要塞大修
+- [DnT Ocean Monument Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-overhaul) 海洋神殿大修
+- [DnT Pillager Outpost Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-pillager-outpost-overhaul) 掠夺者前哨站大修
+- [DnT Swamp Hut Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-swamp-hut-overhaul) 女巫小屋大修
+
 ## 主世界结构
 
 ### 水井 Wells
@@ -242,7 +252,7 @@
 
 ### 裸露的要塞 Bunker
 
-一个相当稀有的结构，类似于地表暴露的要塞，它们有更大的房间变化，没有末地传送门房间。
+一个有点稀有的结构，类似于地表暴露的要塞，它们有更大的房间变化，没有末地传送门房间。
 
 ![](https://cdn.modrinth.com/data/tpehi7ww/images/9b5e943cf03211d00ce7e5cfb4e073697c29e335_350.webp)
 
@@ -325,9 +335,6 @@
 ![](https://cdn.modrinth.com/data/tpehi7ww/images/fdd1d51faa37fc24d2583a9a8348a2c296ebb5e2_350.webp)
 
 ## 下界结构
-
-> [!NOTE]注意
-> 这些结构形状和外观均贴近原版、看起来较为正常，你只能在这里获取原版和 DnT 战利品<br>它与 [Incendium](/incendium.md) 数据包引入的结构外观有明显区别，也与它的所有自定义物品和进度均无关
 
 ### 下界骷髅营地 Nether Skeleton Camps
 

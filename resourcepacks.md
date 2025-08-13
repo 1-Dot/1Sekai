@@ -1,12 +1,15 @@
 # 资源包说明
 
+> [!IMPORTANT] 基岩版支持
+> 对于数据包加入的新内容，目前暂时没有任何基岩版资源包的支持（稍后尽可能转换），可以先凑活着看<br>对于模组加入的内容，目前没有经过任何测试，对于看上去奇怪的地方请多加小心，可能是模组的方块！
+
 > [!TIP] 如果你觉得资源包重载屏幕太烦
-> 试试客户端 Fabric 模组 [Remove Reloading Screen](https://modrinth.com/mod/rrls)
+> 试试客户端 Fabric 模组 [Remove Reloading Screen](https://modrinth.com/mod/rrls)，服主自己都在用！
 
 > [!NOTE] 关于下载
-> 当前包体 13 MB 左右，正常应该在 5 秒内下载完成，如果下载失败或明显超过这个时间，请向 1Dot 反馈
+> 当前包体 30 MB 左右，正常应该在 15 秒内下载完成，如果下载失败或明显超过这个时间，请告知 1Dot
 
-1Sekai 内置了强制分发的资源包，主要为特定数据包所必需，此外还顺带加入了以下内容
+1Sekai 内置了强制分发的资源包，主要为特定数据包和模组所必需，此外还顺带加入了以下内容
 
 ## 生物
 
@@ -20,17 +23,21 @@
 
 替换了部分内置唱片的音乐，当前列表如下（随时可能变动）
 
-| 唱片         | 替换的音乐                                     | 时长 | 大小    |
-| ------------ | ---------------------------------------------- | ---- | ------- |
-| C418 - 13    | Rick Astley - Never Gonna Give You Up          | 3:30 | 2.37 MB |
-| C418 - strad | Lena Raine - Resurrection (Radio Edit by 1Dot) | 2:24 | 3.35 MB |
-| C418 - cat   | 羅大佑，蔣志光 - 皇后大道東                    | 4:47 | 2.68 MB |
+| 唱片          | 替换的音乐                                             | 时长 | 大小    |
+| ------------- | ------------------------------------------------------ | ---- | ------- |
+| C418 - 13     | Lena Raine - Scattered and Lost                        | 5:53 | 7.18 MB |
+| C418 - strad  | Lena Raine - Resurrection (Radio Edit by 1Dot)         | 2:24 | 3.33 MB |
+| C418 - wait   | Lena Raine - Reach for the Summit (Radio Edit by 1Dot) | 3:04 | 3.55 MB |
+| C418 - blocks | Rick Astley - Never Gonna Give You Up                  | 3:30 | 2.37 MB |
+| C418 - cat    | 羅大佑，蔣志光 - 皇后大道東                            | 4:47 | 2.68 MB |
 
 ## 盔甲与盔甲架
 
 对于原版盔甲，使用了更轻量简单的盔甲纹理，以及更贴近玩家模型的盔甲架模型
 
-## 画
+## 床、画
+
+现在每种颜色的床都有自己的独特图案
 
 除了四元素以外的所有画现在变成了猫模因，包括 1.21.7 新加入的的大电影画
 
@@ -52,6 +59,7 @@
 - Fancy Armor Stand
 - Fox Thigh Highs
 - Lena Raine+ (1Dot 私有)
+- LoTaYou+ (1Dot 私有)
 - MC Dungeons Crit Sound
 - Meme Cat Paintings
 - Miku Plush Totems

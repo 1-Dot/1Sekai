@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,af as l}from"./chunks/framework.DJPGobOp.js";const f=JSON.parse('{"title":"关于上周目","description":"","frontmatter":{},"headers":[],"relativePath":"legacy.md","filePath":"legacy.md"}'),i={name:"legacy.md"};function d(o,a,c,n,s,h){return t(),r("div",null,a[0]||(a[0]=[l("",20)]))}const m=e(i,[["render",d]]);export{f as __pageData,m as default};

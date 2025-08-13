@@ -8,11 +8,15 @@
 
 服务器硬件性能瓶颈，导致快速跑图、开传送门时可能遇到滞后
 
+请自觉使用 `/log tps` 关注服务器状态，避免放置过多假人
+
 希望你在这个羸弱的硬件上和小规模的社群里玩得开心！
 
 ## 网页地图
 
 在 [mc.1dot.cat:1145](http://mc.1dot.cat:1145 "Test") 可查看已生成的区块以及实时玩家坐标
+
+如果你在客户端使用 Xaero 的世界地图，可以安装 [Remote Player Waypoints for Xaero's Map](https://modrinth.com/mod/remote-player-waypoints-for-xaeros-map) 将基于网页地图的实时玩家坐标集成到你的客户端
 
 ## QQ 群
 

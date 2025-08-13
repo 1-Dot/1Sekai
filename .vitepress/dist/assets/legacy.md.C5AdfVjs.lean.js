@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,af as p}from"./chunks/framework.DJPGobOp.js";const _=JSON.parse('{"title":"使用旧存档","description":"","frontmatter":{},"headers":[],"relativePath":"legacy.md","filePath":"legacy.md"}'),o={name:"legacy.md"};function l(n,a,c,d,s,i){return t(),r("div",null,a[0]||(a[0]=[p("",19)]))}const f=e(o,[["render",l]]);export{_ as __pageData,f as default};

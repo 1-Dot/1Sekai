@@ -25,7 +25,7 @@ hero:
 
 features:
   - title: ✨ 2025.8.14 更新内容 • Wiki 稍后更新
-    details: 删除了大部分自然区块<br>加入潜行亲亲<br>✨加入建筑法杖<br>✨加入 Friends & Foes (投票落选生物)<br>✨加入农夫乐事、多趣乐事、装箱乐事、存储乐事<br>加入地牢与酒馆系列的大部分大改原版结构数据包<br>加入 1Sekai 游戏窗口标题和 Esc 界面菜单<br>资源包内容调整，更多 Lena Raine 唱片
+    details: 删除了大部分自然区块<br>加入潜行亲亲<br>加入国际象棋<br>✨加入建筑法杖<br>✨加入 Friends & Foes (投票落选生物)<br>✨加入农夫乐事、多趣乐事、装箱乐事、存储乐事<br>加入地牢与酒馆系列的大部分大改原版结构数据包<br>加入 1Sekai 游戏窗口标题和 Esc 界面菜单<br>资源包内容调整，更多 Lena Raine 唱片
     link: /mods.md#完整列表参考
     linkText: 去看详细信息
   - icon: 🧊

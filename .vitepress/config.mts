@@ -39,7 +39,7 @@ export default defineConfig({
 
     nav: [
       { text: '主页', link: '/' },
-      { text: '文档教程', link: '/getting-started' },
+      { text: '1Sekai Wiki', link: '/overview' },
       { text: '网页地图', link: 'http://mc.1dot.cat:1145' }
     ],
 
@@ -47,10 +47,17 @@ export default defineConfig({
       {
         text: '基本信息',
         items: [
-          { text: '快速入门', link: '/getting-started' },
-          { text: '服务器须知', link: '/rules' },
-          { text: '关于上周目', link: '/legacy' }
+          { text: '服务器概述', link: '/overview' },
+          { text: '关于上周目', link: '/legacy' },
         ],
+      },
+      {
+        text: '小内容介绍',
+        items: [
+          { text: '模组', link: '/mods' },
+          { text: '数据包', link: '/datapacks' },
+          { text: '资源包', link: '/resourcepacks' }
+        ]
       },
       {
         text: '大型拓展玩法',
@@ -59,14 +66,6 @@ export default defineConfig({
           { text: '地牢与酒馆', link: '/dnt' },
           { text: 'Stellarity 末地', link: '/stellarity' },
           { text: 'Friends & Foes', link: '/fnf' },
-        ]
-      },
-      {
-        text: '小内容介绍',
-        items: [
-          { text: '模组说明', link: '/mods' },
-          { text: '数据包说明', link: '/datapacks' },
-          { text: '资源包说明', link: '/resourcepacks' }
         ]
       }
     ],

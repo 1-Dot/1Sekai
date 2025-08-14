@@ -1,5 +1,7 @@
 # 地牢与酒馆
 
+![](https://cdn.modrinth.com/data/tpehi7ww/images/d3edc01465923590e4abc93a94b0c5879de2c2c5.png)
+
 本页面所有内容由 1Dot 手动格式化自 [Dungeons and Taverns 的 Modrinth 页面](https://modrinth.com/datapack/dungeons-and-taverns)，提供了与资源包一致的简体中文本地化对照，希望能提供更方便的阅读和搜索体验。
 
 这个数据包添加了类似原版的结构，这些结构应该与游戏的其他部分融为一体，感觉就像它们属于那里。从诸如瞭望塔和酒馆之类的环境附加物，到诸如恶地矿工前哨站和灾厄村民藏身处之类的地牢。

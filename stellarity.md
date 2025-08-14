@@ -1,10 +1,17 @@
 # Stellarity 末地
 
+![](https://i.imgur.com/p7eHI03.png)
+
 [Stellarity 的 Modrinth 页面](https://modrinth.com/datapack/stellarity)
 
 本页面所有内容由 1Dot 手动格式化自 [Stellarity - kohara's Basement Wiki](https://koharasbasement.wiki.gg/wiki/Stellarity)，将所有条目展平并提供了与资源包一致的简体中文本地化对照，希望能提供更方便的阅读和搜索体验。
 
 Stellarity 是一个数据包，它对末地进行了大量改造，赋予它新的地形形状、生物群落、物品和武器，甚至新的机制。Stellarity 并没有遵循 Minecraft 地下城风格扩展的常见主题或使其成为外星维度，而是将荒凉维度的常见主题与强烈的魔幻主题融合在一起。
+
+> [!NOTE] 自己探索
+> 有许多作者没有设立页面的 Stellarity 物品，这里也无法索引，请自己摸索发现
+>
+> 时刻关注你按 `L` 键打开的进度屏幕中的「诅咒祭坛」和「末地」条目，其中诅咒祭坛 Tab 中记录了所有你能够在末地的诅咒祭坛尝试的合成表
 
 ## 装备
 

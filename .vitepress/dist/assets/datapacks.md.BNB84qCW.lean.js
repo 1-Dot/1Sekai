@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as r,af as i}from"./chunks/framework.DJPGobOp.js";const f=JSON.parse('{"title":"数据包说明","description":"","frontmatter":{},"headers":[],"relativePath":"datapacks.md","filePath":"datapacks.md"}'),t={name:"datapacks.md"};function n(o,e,s,d,h,c){return r(),l("div",null,e[0]||(e[0]=[i("",19)]))}const u=a(t,[["render",n]]);export{f as __pageData,u as default};

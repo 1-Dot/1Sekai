@@ -4,17 +4,19 @@
 
 [Friends & Foes](/fnf.md)、[农夫乐事](/delight.md) 模组体量过大，移至单独页面介绍
 
-## 传送路石
+## 传送石碑
 
-### 路石
+### 传送石碑
 
-允许你进行长距离传送，跨维度时消耗 1 级经验
+允许你进行长距离传送，图标和名称均可以在右键打开的 GUI 中配置
 
-图标和名称均可以在右键打开的 GUI 中配置
+1Dot 在 [原模组](https://modrinth.com/mod/sswaystones) 的基础上加上了中文本地化、默认设为公开、坐标工具提示和维度信息显示
 
-> [!NOTE] 可见性
+> [!NOTE] 跨维度传送
 >
-> 路石默认是私有、待发现的，对于公用设施和地点的路石，你必须在路石界面右下角 Access Settings 中开启 Global，除非你不想让其他玩家直接看到和使用
+> 跨维度传送时总是消耗 1 级经验
+>
+> 不同维度的传送石碑在 GUI 中图标右下角的堆叠数量不同，主世界为不显示，下界为 `2`，末地为 `3`
 
 合成配方如下：
 
@@ -35,7 +37,7 @@
 
 由于模组作者遗漏，磨制黑石砖墙、红砖墙、苔石砖墙虽然叫「砖墙」但是不能用
 
-### 便携路石
+### 便携传送石碑
 
 随时随地在手上就可以打开传送菜单，合成配方如下：
 
@@ -61,11 +63,29 @@
 >
 > 使用砂轮转移附魔到书上时，请时刻关注左下角位于 GUI 遮罩后的聊天栏信息（模组经 1Dot 修改实现）
 >
-> 你也可以选择[下载客户端模组](https://modrinth.com/mod/grind-enchantments/versions)获得如上图更原生的 GUI 显示
+> 你也可以选择 [下载客户端模组](https://modrinth.com/mod/grind-enchantments/versions) 获得如上图更原生的 GUI 显示
 
 ## 建筑手杖 Construction Wand
 
-请先参阅 Modrinth 页面或 MC 百科，此部分稍后更新
+请先参阅 [Modrinth 页面](https://modrinth.com/mod/construction-wand) 或 MC 百科，此部分稍后继续更新
+
+使用建筑手杖，你可以一次放置许多个方块，从而扩展你面向一侧的建筑
+
+你还可以升级手杖，添加额外的核心，让你能够在面向的方块后方放置一个方块，在空中召唤方块，或者快速摧毁大量方块
+
+手杖分为由石头、铁和钻石制成的基础手杖和无限手杖，更高等级的手杖威力更大，使用寿命更长
+
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting1.png)
+
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting2.png)
+
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting3.png)
+
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting4.png)
+
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting5.png)
+
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting6.png)
 
 ## 国际象棋 PolyChess
 
@@ -176,8 +196,6 @@
 - Comkiss
 - Construction Wand
 - Construction Wand Polymer
-- Crate Delight
-- Crate Delight Patch
 - Disable Portal Checks
 - Double Doors
 - Easy Auth
@@ -206,8 +224,6 @@
 - Let Me Despawn
 - Lithium
 - Log Webhook (1Dot 私有)
-- More Delight
-- More Delight Patch
 - NBT Copy
 - No Creeper Grief
 - Noisium
@@ -228,8 +244,6 @@
 - Spark
 - Squaremap
 - Serverside Waystones (1Dot 修改)
-- Storage Delight
-- Storage Delight Patch
 - Structure Layout Optimizer
 - Styled Chat
 - Very Many Players

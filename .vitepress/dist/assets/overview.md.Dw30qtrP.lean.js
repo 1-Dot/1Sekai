@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,af as o}from"./chunks/framework.DJPGobOp.js";const m=JSON.parse('{"title":"服务器概述","description":"","frontmatter":{},"headers":[],"relativePath":"overview.md","filePath":"overview.md"}'),d={name:"overview.md"};function c(l,t,p,i,s,h){return r(),e("div",null,t[0]||(t[0]=[o("",29)]))}const b=a(d,[["render",c]]);export{m as __pageData,b as default};

@@ -4,14 +4,17 @@
 > 对于数据包加入的新内容，目前暂时没有任何基岩版资源包的支持（稍后尽可能转换），可以先凑活着看
 >
 > 对于模组加入的内容，目前没有经过任何测试，对于看上去奇怪的地方请多加小心，可能是模组的方块！
-
-> [!TIP] 如果你觉得资源包重载屏幕太烦
-> 试试客户端 Fabric 模组 [Remove Reloading Screen](https://modrinth.com/mod/rrls)，服主自己都在用！
+>
+> 下文所述的所有内容目前在基岩版也无法体验到
 
 > [!NOTE] 关于下载
 > 当前包体 30 MB 左右，正常应该在 15 秒内下载完成，如果下载失败或明显超过这个时间，请告知 1Dot
 
 1Sekai 内置了强制分发的资源包，主要为特定数据包和模组所必需，此外还顺带加入了以下内容
+
+## 方块
+
+末地石系列方块有更粉红的纹理
 
 ## 生物
 
@@ -27,7 +30,7 @@
 
 | 唱片          | 替换的音乐                                             | 时长 | 大小    |
 | ------------- | ------------------------------------------------------ | ---- | ------- |
-| C418 - 13     | Lena Raine - Scattered and Lost                        | 5:53 | 7.18 MB |
+| C418 - 13     | Lena Raine - Scattered and Lost (暂时会被截断)         | 5:53 | 7.18 MB |
 | C418 - strad  | Lena Raine - Resurrection (Radio Edit by 1Dot)         | 2:24 | 3.33 MB |
 | C418 - wait   | Lena Raine - Reach for the Summit (Radio Edit by 1Dot) | 3:04 | 3.55 MB |
 | C418 - blocks | Rick Astley - Never Gonna Give You Up                  | 3:30 | 2.37 MB |
@@ -35,7 +38,11 @@
 
 ## 盔甲与盔甲架
 
-对于原版盔甲，使用了更轻量简单的盔甲纹理，以及更贴近玩家模型的盔甲架模型
+> [!TIP] 感谢 BlankMya 对 Stellarity 系列盔甲纹理的修改
+
+对于所有盔甲均使用了更轻量简单的盔甲纹理，以及更贴近玩家模型的盔甲架模型
+
+由于盔甲面积减少，盔甲纹饰现在会部分悬浮在玩家皮肤上
 
 ## 床、画
 
@@ -55,11 +62,24 @@
 | `Sakura Miku` 或 `Sakura Hatsune Miku` | 樱花未来 |
 | `Teto` 或 `Kasane Teto`                | 重音テト |
 
+## Celeste 彩蛋
+
+将苹果、金苹果和附魔金苹果替换为 Celeste 中的草莓样式
+
+三张 Lena Raine 唱片，上文已提及
+
+## Needy Girl Overdose 彩蛋
+
+猫的白色变种的纹理是 P-Chan
+
 ## 完整列表参考
 
+- Construction Wand
 - Dungeons And Taverns
 - Fancy Armor Stand
+- Farmer's Delight
 - Fox Thigh Highs
+- Friends & Foes
 - Lena Raine+ (1Dot 私有)
 - LoTaYou+ (1Dot 私有)
 - MC Dungeons Crit Sound
@@ -67,6 +87,9 @@
 - Miku Plush Totems
 - Music Disk 13 to Never Gonna Give You Up
 - My Minimal Armor
+- New End Stone
+- Pien Cat from NGO NSO
 - Piglin-Chan
-- Sparkles
-- Stellarity
+- PolyChess
+- Stellarity (1Dot 和 BlankMya 修改)
+- Strawberry Apples

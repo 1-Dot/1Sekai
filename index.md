@@ -23,8 +23,8 @@ hero:
       link: https://space.bilibili.com/180186596
 
 features:
-  - title: ✨ 2025.8.15 更新内容
-    details: 删除了大部分自然区块<br>加入潜行亲亲<br>加入国际象棋<br>✨加入建筑法杖<br>✨加入 Friends & Foes (投票落选生物)<br>✨加入农夫乐事、多趣乐事<br>加入地牢与酒馆系列的大部分大改原版结构数据包<br>加入 1Sekai 游戏窗口标题和 Esc 界面菜单<br>资源包内容调整，更多 Lena Raine 唱片
+  - title: ✨ 2025.8.15 - 8.21 更新内容
+    details: 更新完善了服务器须知<br>加入末地石纹理微调<br>加入 BlankMya 修改的盔甲纹理<br>加入 Needy Girl Overdose 彩蛋<br>告示牌与物品展示框新增交互穿透、预输入、涂蜡<br>铁砧加入自定义样式重命名，移除重命名惩罚<br>加入查询当前所在结构的命令<br>加入快速查找物品所在容器
     link: /overview.md
     linkText: 去看详细信息
   - icon: 🧊

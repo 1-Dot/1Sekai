@@ -2,7 +2,7 @@
 
 这些都是服务端模组，对客户端没有任何强制要求
 
-[Friends & Foes](/fnf.md)、[农夫乐事](/delight.md) 模组体量过大，移至单独页面介绍
+[Friends & Foes](/fnf.md)、[农夫乐事](/delight.md) 模组体量较大，移至单独页面介绍
 
 ## 传送石碑
 
@@ -45,9 +45,36 @@
 
 ## 铁砧与砂轮
 
+### 自定义样式重命名
+
+> 1Dot 修改实现
+
+可以使用 MiniMessage 格式在铁砧中为物品名称更改颜色、装饰、字体等
+
+你可以使用 [MiniMessage Viewer](https://webui.advntr.dev) 在线编辑
+
+重命名操作所需经验等级现在永远是 `1`，无视且不增加附魔惩罚
+
+| 标签                          | 示例                                                   | 描述                                                                                                                                                                                              |
+| ----------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `<named color>` `<hex color>` | `<dark_red>` `<#ff0000>`                               | 更改文本下一部分的颜色                                                                                                                                                                            |
+| `<reset>`                     | `<reset>`                                              | 闭合所有当前打开的标签，重置颜色/装饰等                                                                                                                                                           |
+| `<rainbow:[!][phase]>`        | `<rainbow>` `<rainbow:!>` `<rainbow:2>` `<rainbow:!2>` | `!` 反转彩虹方向，`phase` 移动彩虹起点                                                                                                                                                            |
+| `<font:[key]>`                | `<font:alt>Example</font>`                             | 允许更改文本的字体                                                                                                                                                                                |
+| `<[deocraion]>`               | `<bold>` `<underlined>` `<st>` `<obf>` `<i>` `<!i>`    | 修饰文本的下一部分。您可以使用!来反转修饰。查看下方的修饰表，了解所有可用的标签                                                                                                                   |
+| `<pride[:flag]>`              | `Happy <pride>pride month</pride>!`                    | 用不同类型的旗帜为你的物品着色 pride, progress, trans, bi, pan, nb, lesbian, ace, agender, demisexual, genderqueer, genderfluid, intersex, aro, baker, philly, queer, gay, bigender or demigender |
+
+| 装饰          | 别名    |
+| ------------- | ------- |
+| bold          | b       |
+| italic        | em 或 i |
+| underlined    | u       |
+| strikethrough | st      |
+| obfuscated    | obf     |
+
 ### 哪里贵了
 
-移除了铁砧的「过于昂贵！」，现在最高需要的经验等级永远是 39
+移除了铁砧的「过于昂贵！」，现在最高需要的经验等级永远是 `39` (Miku?
 
 ### 祛魔到书上
 
@@ -64,6 +91,41 @@
 > 使用砂轮转移附魔到书上时，请时刻关注左下角位于 GUI 遮罩后的聊天栏信息（模组经 1Dot 修改实现）
 >
 > 你也可以选择 [下载客户端模组](https://modrinth.com/mod/grind-enchantments/versions) 获得如上图更原生的 GUI 显示
+
+## 告示牌与物品展示框
+
+### 交互穿透
+
+穿透：右键单击告示牌或物品展示框，即可访问它们后面的箱子、潜影盒、木桶等
+
+通过潜行 + 右键点击与物品展示框正常交互
+
+### 展示框涂蜡
+
+潜行 + 手持蜜脾右击为物品展示框涂蜡，使它不能被左右键破坏或更改
+
+通过潜行 + 用斧头右击来去除物品框架上的蜡
+
+### 告示牌预输入
+
+破坏告示牌后，其文字、颜色和发光将保留，将标志放入合成面板即可重置
+
+对着现有告示牌右键单击手中的告示牌，可将文本预复制到所持有的告示牌上
+
+## 这是什么结构？
+
+| 命令    | 描述                                                              |
+| ------- | ----------------------------------------------------------------- |
+| `/wits` | 输出当前你所在的结构 ID，你也可以方便地知道结构是哪个数据包引入的 |
+
+## 东西放哪了？
+
+> [!NOTE] 客户端模组
+> 客户端安装 [Where Is It](https://modrinth.com/mod/where-is-it) 可以使用 Y 键匹配手持物品 ID，Shift + Y 键匹配完整 NBT，高亮显示所在的容器，对于查找或整理物品相当有用，客户端无模组时你也可以使用下面的命令
+
+| 命令              | 描述                   |
+| ----------------- | ---------------------- |
+| `/whereis [参数]` | 查找指定物品所在的容器 |
 
 ## 建筑手杖 Construction Wand
 
@@ -188,6 +250,7 @@
 - Advanced Backups
 - Almanac
 - Architectury
+- Better Fabric Console
 - Carpet
 - Concurrent Chunk Management Engine
 - Chat History
@@ -201,7 +264,7 @@
 - Easy Auth
 - Enchantments Unbound
 - Expanded Trident Enchanting
-- Fabric Api
+- Fabric API
 - Fabric Language Kotlin
 - Farmer's Delight
 - Farmer's Delight Polymer Patch
@@ -214,7 +277,9 @@
 - Friends & Foes Patch
 - Get It Together, Drops
 - Geyser
+- Gugle Carpet Addition
 - Grind Enchantments (1Dot 修改)
+- Improved Signs
 - InvView
 - Jade
 - Jukebox Custom Disc Fix
@@ -249,4 +314,7 @@
 - Very Many Players
 - ViaBackwards
 - ViaFabric
+- Wax Item Frames
+- Where Is It
+- What Is This Structure
 - Yet Another Config Lib

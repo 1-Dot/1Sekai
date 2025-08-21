@@ -1,0 +1,1 @@
+import{_ as i,c as r,o as a,af as l}from"./chunks/framework.DJPGobOp.js";const m=JSON.parse('{"title":"Friends & Foes","description":"","frontmatter":{},"headers":[],"relativePath":"fnf.md","filePath":"fnf.md"}'),t={name:"fnf.md"};function n(s,e,o,d,f,h){return a(),r("div",null,e[0]||(e[0]=[l("",12)]))}const p=i(t,[["render",n]]);export{m as __pageData,p as default};

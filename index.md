@@ -23,16 +23,18 @@ hero:
       link: https://space.bilibili.com/180186596
 
 features:
-  - title: ✨ 2025.8.15 - 8.21 更新内容
-    details: 更新完善了服务器须知<br>加入末地石纹理微调<br>加入 BlankMya 修改的盔甲纹理<br>加入 Needy Girl Overdose 彩蛋<br>告示牌与物品展示框新增交互穿透、预输入、涂蜡<br>铁砧加入自定义样式重命名，移除重命名惩罚<br>加入查询当前所在结构的命令<br>加入快速查找物品所在容器
-    link: /overview.md
-    linkText: 去看详细信息
-  - icon: 🧊
-    title: 香草
-    details: 无领地无商店，没有乱七八糟指令<br>尽可能追版本，体验最新版本特性<br>不限正版不设前置 MOD，保证原版可进
-  - icon: ⚔️
-    title: 冒险
-    details: 漫游 CliffTree 重构的主世界，使用路石快速传送<br>在 Stellarity 重构的末地中获得全新武器<br>在 Dungeons & Taverns 的新结构中试炼或小憩
+  - title: ✨ 2025.8.22 更新内容
+    details: 加入治疗与伤害飘字<br>优化快乐恶魂材质，修改床的图案<br>唱片调整，加入 2 首新音乐
+    link: /rp.md
+    linkText: 去看资源包页
+  - title: 2025.8.21 更新内容
+    details: 更新完善了服务器须知<br>告示牌与物品展示框新增交互穿透、预输入、涂蜡<br>✨ 铁砧加入自定义样式重命名，移除重命名惩罚
+    link: /mods.md
+    linkText: 去看模组页
+  - title: 2025.8.15 - 8.20 更新内容
+    details: 加入末地石纹理微调<br>加入 BlankMya 修改的盔甲纹理<br>加入 Needy Girl Overdose 彩蛋<br>加入查询当前所在结构的命令<br>加入快速查找物品所在容器
+    link: /mods.md
+    linkText: 去看模组页
 #  - icon: 🤯
 #    title: 杂项
 #    details: Carpet Mod 及其扩展的支持<br>实时更新的在线文档和网页地图<br>集成可与 QQ 群聊联动的 1Bot 机器人

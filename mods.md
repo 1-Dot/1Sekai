@@ -55,6 +55,10 @@
 >
 > 你也可以选择 [下载客户端模组](https://modrinth.com/mod/grind-enchantments/versions) 获得如上图更原生的 GUI 显示
 
+### 附魔扩展
+
+三叉戟可以附上其他武器类型的附魔，如击退、抢夺、锋利等，但火焰附加、致密、破甲、风爆除外
+
 ## 告示牌与物品展示框
 
 ### 交互穿透
@@ -137,22 +141,27 @@
 | \:item:    | 当前手持物品的信息 |
 | \:pos:     | 当前坐标           |
 
+## 伤害跳字
+
+玩家或生物受到伤害时，会蹦出来伤害类型与伤害数字；治疗时也有飘字
+
 ## 双门
 
 相邻的两个门现在可以通过单个压力板或单次右键同时打开
 
-## 生物行为
+## 苦力怕防爆
 
 苦力怕爆炸现在不再破坏方块
 
 ## 地毯 Carpet
 
-| 已开启的选项  | 描述                                                |
-| ------------- | --------------------------------------------------- |
-| commandPlayer | `/player <username> spawn\|kill\|attack等` 控制假人 |
-| commandLog    | `/log tps等` 在 Tab 列表中监视服务器各状态          |
-| flippinCactus | 仙人掌扳手                                          |
-| xpNoCooldown  | 经验吸收无冷却                                      |
+| 已开启的选项            | 描述                                                |
+| ----------------------- | --------------------------------------------------- |
+| commandPlayer           | `/player <username> spawn\|kill\|attack等` 控制假人 |
+| commandLog              | `/log tps等` 在 Tab 列表中监视服务器各状态          |
+| flippinCactus           | 仙人掌扳手                                          |
+| openFakePlayerInventory | 右键打开假人背包                                    |
+| xpNoCooldown            | 经验吸收无冷却                                      |
 
 ## 玩家骑乘
 
@@ -227,6 +236,7 @@
 - NBT Copy
 - No Creeper Grief
 - Noisium
+- Ouch
 - OwO Lib
 - Player Ladder
 - PolyChess

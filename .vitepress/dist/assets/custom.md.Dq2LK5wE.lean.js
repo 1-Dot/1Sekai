@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,af as n}from"./chunks/framework.DJPGobOp.js";const m=JSON.parse('{"title":"其他新物品","description":"","frontmatter":{},"headers":[],"relativePath":"custom.md","filePath":"custom.md"}'),c={name:"custom.md"};function i(o,a,s,p,l,d){return r(),e("div",null,a[0]||(a[0]=[n("",30)]))}const g=t(c,[["render",i]]);export{m as __pageData,g as default};

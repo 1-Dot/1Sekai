@@ -66,7 +66,7 @@ export default defineConfig({
           { text: '地牢与酒馆', link: '/dnt' },
           { text: 'Stellarity 末地', link: '/stellarity' },
           { text: 'Friends & Foes', link: '/fnf' },
-          { text: '其他服务端新物品', link: '/custom' },
+          { text: '其他新物品', link: '/custom' },
         ]
       }
     ],

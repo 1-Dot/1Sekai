@@ -55,8 +55,8 @@ export default defineConfig({
         text: '小内容介绍',
         items: [
           { text: '模组', link: '/mods' },
-          { text: '数据包', link: '/datapacks' },
-          { text: '资源包', link: '/resourcepacks' }
+          { text: '数据包', link: '/dp' },
+          { text: '资源包', link: '/rp' }
         ]
       },
       {

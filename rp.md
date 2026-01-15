@@ -42,7 +42,7 @@ Lena Raine - Scattered and Lost 体积过大，待剪裁后重新加入
 
 ## 盔甲与盔甲架
 
-> [!TIP] 感谢 BlankMya 对 Stellarity 系列盔甲纹理的修改
+感谢 BlankMya 对 Stellarity 系列盔甲纹理的修改
 
 对于所有盔甲均使用了更轻量简单的盔甲纹理，以及更贴近玩家模型的盔甲架模型
 
@@ -78,6 +78,7 @@ Lena Raine - Scattered and Lost 体积过大，待剪裁后重新加入
 
 ## 完整列表参考
 
+- ButterBee
 - Carefree Happy Ghasts (1Dot 修改)
 - Construction Wand
 - Dungeons And Taverns
@@ -85,6 +86,7 @@ Lena Raine - Scattered and Lost 体积过大，待剪裁后重新加入
 - Farmer's Delight
 - Fox Thigh Highs
 - Friends & Foes
+- Hat Club
 - Kaiwai+ (1Dot 私有)
 - Lena Raine+ (1Dot 私有)
 - LoTaYou+ (1Dot 私有)
@@ -98,6 +100,10 @@ Lena Raine - Scattered and Lost 体积过大，待剪裁后重新加入
 - Pien Cat from NGO NSO
 - Piglin-Chan
 - PolyChess
+- PolyDecorations
+- Sparkles
 - Stellarity (1Dot 和 BlankMya 修改)
 - Strawberry Apples
+- Toms Mobs
+- Toms Server Additions: Decorations & Furniture
 - 可爱的床 - 建筑姬 Ling

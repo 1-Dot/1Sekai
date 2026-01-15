@@ -1,5 +1,8 @@
 # Stellarity 末地
 
+> [!WARNING] 暂未更新
+> 工作量较大，详细内容请先访问原页面
+
 ![](https://i.imgur.com/p7eHI03.png)
 
 [Stellarity 的 Modrinth 页面](https://modrinth.com/datapack/stellarity)

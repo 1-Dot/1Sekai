@@ -4,9 +4,9 @@ layout: home
 
 hero:
   name: 1Sekai Server
-  text: Minecraft 1.21.8
+  text: Minecraft 1.21.11
   tagline: |
-    Java 版 & 基岩版 1.21.x
+    已跟进群骑纷争小更新
     by @1Dot
   actions:
     - theme: brand
@@ -16,25 +16,20 @@ hero:
       text: 网页地图
       link: http://mc.1dot.cat:1145
     - theme: alt
-      text: 加入QQ群
+      text: 加入 QQ 群
       link: https://qm.qq.com/q/AyERclmhUc
+    - theme: alt
+      text: 加入 Discord 群
+      link: https://discord.gg/Kh3djKZ6Jp
     - theme: alt
       text: bilibili
       link: https://space.bilibili.com/180186596
 
 features:
-  - title: ✨ 2025.8.22 更新内容
-    details: 加入治疗与伤害飘字<br>优化快乐恶魂材质，修改床的图案<br>唱片调整，加入 2 首新音乐
+  - title: ✨ 2026.1.12 重大更新
+    details: 从1.21.8升级至1.21.11，旧版仍然兼容，官方更新内容：1. 群骑纷争（铜箱+铜傀儡+展示架）+ 2. 混乱坐骑（矛+鹦鹉螺）<br>原下界全部删除，加回下界大型数据包 Incendium<br>加了个弹弓（Simple Slingshot）<br>加了负鼠大象蝴蝶水豚企鹅海鸥龙虾等等一堆装饰生物（Tom's Mobs）<br>加了大量家具<br>加了一堆装饰帽子<br>主世界和平生物现在有更多变体<br>主世界整体环境色彩视觉大改，新海藻森林群系，其他群系微调<br>地牢和酒馆新道具Charts（指向最近结构），密封大厅结构+上古恶魂BOSS，水之面纱、迅捷翱翔、空中生物诅咒新附魔<br>末地新内容：潜影贝怪，动物的末地变种，光之女皇新形象，新方块，漂浮宝藏结构<br>新版数据包不兼容原末地导致物品实体NBT全出错，所以清空了末地除主岛和机器以外的所有地方，把基地和所有人库存里的Stellarity物品全部以换代修了<br>图片转地图
     link: /rp.md
     linkText: 去看资源包页
-  - title: 2025.8.21 更新内容
-    details: 更新完善了服务器须知<br>告示牌与物品展示框新增交互穿透、预输入、涂蜡<br>✨ 铁砧加入自定义样式重命名，移除重命名惩罚
-    link: /mods.md
-    linkText: 去看模组页
-  - title: 2025.8.15 - 8.20 更新内容
-    details: 加入末地石纹理微调<br>加入 BlankMya 修改的盔甲纹理<br>加入 Needy Girl Overdose 彩蛋<br>加入查询当前所在结构的命令<br>加入快速查找物品所在容器
-    link: /mods.md
-    linkText: 去看模组页
 #  - icon: 🤯
 #    title: 杂项
 #    details: Carpet Mod 及其扩展的支持<br>实时更新的在线文档和网页地图<br>集成可与 QQ 群聊联动的 1Bot 机器人

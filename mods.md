@@ -6,9 +6,12 @@
 
 添加了自定义方块和物品的模组移至 [其他服务端新物品](/custom.md) 介绍
 
-## 铁砧与砂轮
+## ~~铁砧与砂轮（不可用）~~
 
-### 自定义样式重命名
+### ~~自定义样式重命名（不可用）~~
+
+> [!CAUTION] 此部分暂时失效
+> 由于此处功能涉及对原 MOD 的修改，更新至 1.21.11 过程中精力有限，暂未恢复
 
 > 1Dot 修改实现
 
@@ -35,17 +38,26 @@
 | strikethrough | st      |
 | obfuscated    | obf     |
 
-### 哪里贵了
+### ~~哪里贵了（不可用）~~
+
+> [!CAUTION] 此部分暂时失效
+> 由于此处功能涉及对原 MOD 的修改，更新至 1.21.11 过程中精力有限，暂未恢复
 
 移除了铁砧的「过于昂贵！」，现在最高需要的经验等级永远是 `39` (Miku?
 
-### 祛魔到书上
+### ~~祛魔到书上（不可用）~~
+
+> [!CAUTION] 此部分暂时失效
+> 由于此处功能涉及对原 MOD 的修改，更新至 1.21.11 过程中精力有限，暂未恢复
 
 你可以将附魔物品和书放入砂轮中，以将工具上的所有附魔转移至书上
 
 ![](https://media.forgecdn.net/attachments/289/283/2020-04-29_13.png)
 
-### 分解附魔书
+### ~~分解附魔书（不可用）~~
+
+> [!CAUTION] 此部分暂时失效
+> 由于此处功能涉及对原 MOD 的修改，更新至 1.21.11 过程中精力有限，暂未恢复
 
 将一本附魔书放入砂轮的上槽位，并将另一本空的或已经附魔的书放入砂轮的下槽位，则第一本书顶部的第一个附魔将被转移到另一本书上
 
@@ -55,7 +67,10 @@
 >
 > 你也可以选择 [下载客户端模组](https://modrinth.com/mod/grind-enchantments/versions) 获得如上图更原生的 GUI 显示
 
-### 附魔扩展
+### ~~附魔扩展（不可用）~~
+
+> [!CAUTION] 此部分暂时失效
+> 原 MOD 没有更新适配且无法兼容 1.21.11
 
 三叉戟可以附上其他武器类型的附魔，如击退、抢夺、锋利等，但火焰附加、致密、破甲、风爆除外
 
@@ -67,7 +82,10 @@
 
 通过潜行 + 右键点击与物品展示框正常交互
 
-### 展示框涂蜡
+### ~~展示框涂蜡（不可用）~~
+
+> [!CAUTION] 此部分暂时失效
+> 原 MOD 没有更新适配且无法兼容 1.21.11
 
 潜行 + 手持蜜脾右击为物品展示框涂蜡，使它不能被左右键破坏或更改
 
@@ -87,16 +105,23 @@
 
 ## 东西放哪了？
 
-> [!NOTE] 客户端模组
-> 客户端安装 [Where Is It](https://modrinth.com/mod/where-is-it) 可以使用 Y 键匹配手持物品 ID，Shift + Y 键匹配完整 NBT，高亮显示所在的容器，对于查找或整理物品相当有用，客户端无模组时你也可以使用下面的命令
-
 | 命令              | 描述                   |
 | ----------------- | ---------------------- |
 | `/whereis [参数]` | 查找指定物品所在的容器 |
 
+## 旁观模式
+
+可以使用指令来请求在旁观模式下旁观他人，此时的飞行距离受限
+
+| 命令              | 描述                   |
+| ----------------- | ---------------------- |
+| `/peek player <player>` | 请求旁观别人 |
+| `/peek invite <player>` | 邀请别人旁观自己 |
+| `/peek stop` | 停止旁观 |
+
 ## 亲亲
 
-> 这是表示 Kiss，而不是玩家繁殖
+> 这不是玩家繁殖
 
 在其他玩家身边快速切换潜行即可冒爱心，或者你也可以使用 `/kiss <player>`
 
@@ -110,17 +135,15 @@
 
 ## 快速潜影盒 Quick Shulker
 
-> [!NOTE] 要使用以下功能，客户端必须安装相同模组
+> [!NOTE] 要使用库存中右键开启的功能，客户端必须安装相同模组
 
 允许你在库存中或手持时右键快速打开潜影盒、末影箱甚至工作台等工作方块 GUI
 
-1.21.7、1.21.8 可用的版本可以在群文件找到
+1.21.11 可用的版本可以在群文件找到
 
 ## 其他客户端模组适配
 
 - Jade
-
-- Roughly Enough Items
 
 ## 格式化聊天
 
@@ -155,12 +178,12 @@
 
 ## 地毯 Carpet
 
+假人相关暂时禁用，后续择时开启
+
 | 已开启的选项            | 描述                                                |
 | ----------------------- | --------------------------------------------------- |
-| commandPlayer           | `/player <username> spawn\|kill\|attack等` 控制假人 |
 | commandLog              | `/log tps等` 在 Tab 列表中监视服务器各状态          |
 | flippinCactus           | 仙人掌扳手                                          |
-| openFakePlayerInventory | 右键打开假人背包                                    |
 | xpNoCooldown            | 经验吸收无冷却                                      |
 
 ## 玩家骑乘
@@ -169,7 +192,7 @@
 
 ## 备份与回档
 
-每小时会创建整个世界的完整备份，目前会保留至少 7 天
+每小时会创建整个世界的完整备份
 
 有基于每个方块放置、更改和破坏的备份，可以进行单方块或一定范围的查询和热回档
 
@@ -189,14 +212,20 @@
 
 服务器 0 人在线时，将停止 Tick 流动，世界时间也不再变化
 
+## 横幅图案上限
+
+移除了原版横幅图案数量的 6 层的限制，新的上限为 `16`
+
+如果你需要制作超过 6 层的复杂旗帜，必须在客户端也安装这个 MOD [Limitless Banners](https://modrinth.com/mod/%22limitless%22-banners)
+
+好像因为带了个引号没法正常访问，可以去 Modrinth 手动搜一下
+
 ## 完整列表参考
 
-- Advanced Backups
 - Almanac
 - Architectury
 - Better Fabric Console
 - Carpet
-- Concurrent Chunk Management Engine
 - Chat History
 - Cloth Config
 - Collective
@@ -206,14 +235,13 @@
 - Disable Portal Checks
 - Double Doors
 - Easy Auth
-- Enchantments Unbound
-- Expanded Trident Enchanting
 - Fabric API
 - Fabric Language Kotlin
 - Farmer's Delight
 - Farmer's Delight Polymer Patch
 - FConfigLib
 - Ferrite Core
+- Filament
 - Floodgate
 - Friends & Foes
 - Friends & Foes - Beekeeper Hut
@@ -222,32 +250,36 @@
 - Get It Together, Drops
 - Geyser
 - Gugle Carpet Addition
-- Grind Enchantments (1Dot 修改)
 - Improved Signs
 - InvView
 - Jade
-- Jukebox Custom Disc Fix
 - Krypton
 - Ksyxis
 - Ledger
 - Let Me Despawn
+- Limitless Banners
 - Lithium
 - Log Webhook (1Dot 私有)
 - NBT Copy
 - No Creeper Grief
 - Noisium
 - Ouch
-- OwO Lib
+- Peek
 - Player Ladder
 - PolyChess
+- PolyDecorations
+- Polydex
 - Polymer
 - PVP Toggle
 - Quick Shulker
 - Resourceful Config
+- ResourcefulLib
 - Roughly Enough Items
 - ScalableLux
 - ServerCore
 - Sessility
+- Simply Slingshot
+- Sivage
 - Skin Restorer
 - Skip Server Check
 - Slumber
@@ -256,10 +288,11 @@
 - Serverside Waystones (1Dot 修改)
 - Structure Layout Optimizer
 - Styled Chat
+- Toms Mobs
+- Toms Server Additions: Decorations & Furniture
 - Very Many Players
 - ViaBackwards
 - ViaFabric
-- Wax Item Frames
 - Where Is It
 - What Is This Structure
 - Yet Another Config Lib

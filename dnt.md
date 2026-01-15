@@ -1,5 +1,8 @@
 # 地牢与酒馆
 
+> [!WARNING] 暂未更新
+> 工作量较大，详细内容请先访问原页面
+
 ![](https://cdn.modrinth.com/data/tpehi7ww/images/d3edc01465923590e4abc93a94b0c5879de2c2c5.png)
 
 本页面所有内容由 1Dot 手动格式化自 [Dungeons and Taverns 的 Modrinth 页面](https://modrinth.com/datapack/dungeons-and-taverns)，提供了与资源包一致的简体中文本地化对照，希望能提供更方便的阅读和搜索体验。

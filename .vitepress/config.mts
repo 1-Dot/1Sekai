@@ -60,19 +60,21 @@ export default defineConfig({
         ]
       },
       {
-        text: '大型拓展玩法',
+        text: '大型拓展内容',
         items: [
           { text: '农夫乐事', link: '/delight' },
           { text: '地牢与酒馆', link: '/dnt' },
-          { text: 'Stellarity 末地', link: '/stellarity' },
           { text: 'Friends & Foes', link: '/fnf' },
-          { text: '其他新物品', link: '/custom' },
+          { text: 'Stellarity 末地', link: '/stellarity' },
+          { text: 'Incendium 下界', link: '/incendium' },
+          { text: '其他自定义物品', link: '/custom' },
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'bilibili', link: 'https://space.bilibili.com/180186596' },
+      { icon: 'discord', link: 'https://discord.gg/Kh3djKZ6Jp' },
       { icon: 'qq', link: 'https://qm.qq.com/q/AyERclmhUc' }
     ],
 

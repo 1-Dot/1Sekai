@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as d,af as l}from"./chunks/framework.DJPGobOp.js";const b=JSON.parse('{"title":"模组说明","description":"","frontmatter":{},"headers":[],"relativePath":"mods.md","filePath":"mods.md"}'),i={name:"mods.md"};function r(o,t,h,c,s,n){return d(),a("div",null,t[0]||(t[0]=[l("",86)]))}const m=e(i,[["render",r]]);export{b as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as r,af as l}from"./chunks/framework.DJPGobOp.js";const m=JSON.parse('{"title":"数据包说明","description":"","frontmatter":{},"headers":[],"relativePath":"dp.md","filePath":"dp.md"}'),t={name:"dp.md"};function n(d,a,o,s,h,c){return r(),i("div",null,a[0]||(a[0]=[l("",30)]))}const f=e(t,[["render",n]]);export{m as __pageData,f as default};

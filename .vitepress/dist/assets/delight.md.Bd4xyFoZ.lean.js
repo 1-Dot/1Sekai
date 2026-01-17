@@ -1,1 +1,0 @@
-import{_ as r,c as a,o as t,af as i}from"./chunks/framework.DJPGobOp.js";const g=JSON.parse('{"title":"农夫乐事","description":"","frontmatter":{},"headers":[],"relativePath":"delight.md","filePath":"delight.md"}'),l={name:"delight.md"};function h(o,e,c,n,s,f){return t(),a("div",null,e[0]||(e[0]=[i("",53)]))}const b=r(l,[["render",h]]);export{g as __pageData,b as default};

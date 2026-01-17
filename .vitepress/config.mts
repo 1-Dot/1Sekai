@@ -79,7 +79,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '由 1Dot 在内 1Sekai 的所有玩家共同构建',
+      message: '由 1Sekai 的所有玩家共同构建',
       copyright: 'Powered by VitePress'
     }
   },

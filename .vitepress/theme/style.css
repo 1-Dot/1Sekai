@@ -53,10 +53,14 @@
   --vp-c-brand-2: var(--vp-c-indigo-2);
   --vp-c-brand-3: var(--vp-c-indigo-3);
   --vp-c-brand-soft: var(--vp-c-indigo-soft);*/
-  --vp-c-brand-1: #438fd2; /* Main Accent */
-  --vp-c-brand-2: #86c4f9; /* Button Hover Background */
-  --vp-c-brand-3: #65acea; /* Button Background */
-  --vp-c-brand-soft: #ddecf6; /* Important Card Background */
+  --vp-c-brand-1: #438fd2;
+  /* Main Accent */
+  --vp-c-brand-2: #86c4f9;
+  /* Button Hover Background */
+  --vp-c-brand-3: #65acea;
+  /* Button Background */
+  --vp-c-brand-soft: #ddecf6;
+  /* Important Card Background */
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -75,10 +79,14 @@
 }
 
 .dark {
-  --vp-c-brand-1: #86c4f9; /* Main Accent */
-  --vp-c-brand-2: #aad7fe; /* Button Hover Background */
-  --vp-c-brand-3: #86c4f9; /* Button Background */
-  --vp-c-brand-soft: #2a313b; /* Important Card Background */
+  --vp-c-brand-1: #86c4f9;
+  /* Main Accent */
+  --vp-c-brand-2: #aad7fe;
+  /* Button Hover Background */
+  --vp-c-brand-3: #86c4f9;
+  /* Button Background */
+  --vp-c-brand-soft: #2a313b;
+  /* Important Card Background */
   --vp-button-brand-text: black !important;
   --vp-button-brand-hover-text: black !important;
   --vp-button-brand-active-text: black !important;
@@ -132,6 +140,43 @@
   }
 }
 
+/* Hero Background Image */
+.VPHero {
+  position: relative;
+  overflow: hidden;
+}
+
+.VPHero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('https://zh.minecraft.wiki/images/Mounts_of_Mayhem_Key_Art.png');
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  opacity: 0.15;
+  z-index: -1;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0) 100%);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0) 100%);
+}
+
+.dark .VPHero::before {
+  opacity: 0.25;
+}
+
+@media (min-width: 960px) {
+  .VPHero::before {
+    opacity: 0.2;
+  }
+
+  .dark .VPHero::before {
+    opacity: 0.35;
+  }
+}
+
 /*.VPHome {
   margin-bottom: 128px !important;
 }*/
@@ -154,4 +199,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
-

@@ -79,8 +79,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '由 1Sekai 的所有玩家共同构建',
-      copyright: 'Powered by VitePress'
+      message: 'Powered by VitePress，由 1Sekai 的所有玩家共同构建',
+      copyright: '部分图片来自 Minecraft Wiki 和 Modrinth'
     }
   },
   vite: {

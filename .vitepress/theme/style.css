@@ -348,3 +348,78 @@
   box-shadow: inset 3px 3px rgba(255, 255, 255, 0.1),
     inset -3px -3px rgba(255, 255, 255, 0.05) !important;
 }
+
+/* --------------------------------------------------------------------------
+   Hero Image - 矩形 Logo 适配
+   针对横向矩形 Logo 优化显示
+   -------------------------------------------------------------------------- */
+
+/* 移动端样式 */
+.VPHero .VPImage.image-src {
+  max-width: 100% !important;
+  max-height: none !important;
+  width: 310px !important;
+  height: auto !important;
+}
+
+.VPHero .image-container {
+  height: 256px !important;
+  margin: 0 auto !important;
+}
+
+/* 小屏幕 */
+@media (min-width: 640px) {
+  .VPHero .VPImage.image-src {
+    width: 360px !important;
+  }
+}
+
+/* 大屏幕 - 左右布局时 */
+@media (min-width: 960px) {
+  .VPHero .VPImage.image-src {
+    width: 400px !important;
+    max-width: 400px !important;
+  }
+
+  /* 调整 hero 区域的图片容器 */
+  .VPHero .image-container {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  /* 调整图片背景光晕效果适配矩形 */
+  .VPHero .image-bg {
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 20% !important;
+  }
+
+  .VPHero.has-image .main {
+    max-width: 640px !important;
+  }
+
+  /* Logo 往右移动 */
+  .VPHero .image {
+    transform: translateX(32px);
+  }
+}
+
+.VPFeature {
+  border-radius: 8px !important;
+  box-shadow: inset 0px -3px rgba(0, 0, 0, 0.04) !important;
+}
+
+.VPFeature .box .icon {
+  box-shadow: inset 0px 3px rgba(0, 0, 0, 0.04) !important;
+}
+
+.dark .VPFeature {
+  background-color: #26282C !important;
+  box-shadow: inset 0 -3px #202127 !important;
+}
+
+.dark .VPFeature .box .icon {
+  background-color: #33363D !important;
+  box-shadow: inset 0 3px rgba(0, 0, 0, 0.1) !important;
+}

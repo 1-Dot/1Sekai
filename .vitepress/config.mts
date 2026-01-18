@@ -40,6 +40,10 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '1Sekai Wiki', link: '/overview' },
+      { text: '更新内容', link: '/whatsnew' },
+      { text: '模组', link: '/mods' },
+      { text: '数据包', link: '/dp' },
+      { text: '新物品', link: '/custom' },
       { text: '网页地图', link: 'http://mc.1dot.cat:1145' }
     ],
 
@@ -48,6 +52,7 @@ export default defineConfig({
         text: '基本信息',
         items: [
           { text: '服务器概述', link: '/overview' },
+          { text: '更新内容', link: '/whatsnew' },
           { text: '关于上周目', link: '/legacy' },
         ],
       },
@@ -79,7 +84,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Powered by VitePress，由 1Sekai 的所有玩家共同构建',
+      message: 'Built by 1Dot，Powered by VitePress',
       copyright: '部分图片来自 Minecraft Wiki 和 Modrinth'
     }
   },

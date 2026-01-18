@@ -5,6 +5,8 @@ layout: home
 hero:
   name: 1Sekai Server
   text: Minecraft 1.21.11
+  image:
+    src: /Title.webp
   tagline: |
     已跟进至群骑纷争，服务端内容更新
     by @1Dot
@@ -19,7 +21,7 @@ hero:
       text: 加入 QQ 群
       link: https://qm.qq.com/q/AyERclmhUc
     - theme: alt
-      text: 加入 Discord 群
+      text: Discord
       link: https://discord.gg/Kh3djKZ6Jp
     - theme: alt
       text: bilibili
@@ -27,9 +29,29 @@ hero:
 
 whatsnew:
   - title: ✨ 2026.1.12 重大更新
-    details: 从1.21.8升级至1.21.11，旧版仍兼容，官方更新内容：1. 铜器时代（铜箱子+铜傀儡+展示架）+ 2. 群骑纷争（矛+鹦鹉螺）<br>原下界全部删除，加回下界大型数据包Incendium<br>加了个弹弓，加了负鼠大象蝴蝶水豚企鹅海鸥龙虾等等一堆生物<br>加了大量家具和装饰物，加了流浪商人卖的一堆装饰帽子<br>主世界和平生物现在有更多变体，整体环境色彩视觉大改，新海藻森林群系，其他群系微调<br>酒馆新道具 Charts（指向最近结构），新的封印大厅结构+上古恶魂BOSS，新附魔水之面纱、迅捷翱翔、空中生物诅咒<br>末地新内容：潜影贝怪，动物的末地变种，光之女皇新形象，几个新方块，漂浮宝藏结构<br>新版末地数据包导致物品实体NBT全出错，所以清空了末地除机器以外的所有地方，把所有人库存里的Stellarity物品全部以换代修了，心鱼加的血又全没了联系单独补偿<br>图片转地图模组，旁观模组
-    link: /overview
-    linkText: 参见「模组」「数据包」「地牢与酒馆」「末地」「下界」「其他自定义物品」页
+    details: 从1.21.8升级至1.21.11，旧版仍兼容，官方更新内容：铜器时代+群骑纷争<br>下界重置，加回大型数据包Incendium<br>加了弹弓，更多生物，大量家具和装饰物，装饰帽子<br>图片转地图模组，旁观模组<br>主世界色彩视觉大改，新海藻森林群系等<br>酒馆新封印大厅结构+BOSS，新附魔<br>末地重置，新潜影贝怪，动物变种，光之女皇新形象，新方块，漂浮宝藏结构
+    link: /whatsnew
+    linkText: 在「更新内容」页看详细版
+
+carousel:
+  - src: /ss1a.webp
+  - src: /ss2.webp
+    caption: 工业园区
+  - src: /Sn1paste_2026-01-18_19-41-33.webp
+    caption: 公告板背面
+  - src: /ss3.webp
+    caption: 沙漠浴场
+  - src: /nether.webp
+    caption: 下界圣所与石英平原
+  - src: /end.webp
+    caption: 末地村庄
+  # 添加更多截图示例：
+  # - src: /screenshot2.webp
+  #   alt: 下界风景
+  #   caption: Incendium 下界
+  # - src: /screenshot3.webp
+  #   alt: 末地风景
+  #   caption: Stellarity 末地
 
 features:
 # - icon: 🤯

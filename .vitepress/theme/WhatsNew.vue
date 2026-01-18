@@ -585,8 +585,9 @@ onUnmounted(() => {
 .carousel-dots {
   position: absolute;
   bottom: 16px;
-  left: 50%;
-  transform: translateX(-50%);
+  /*left: 50%;
+  transform: translateX(-50%);*/
+  right: 20px;
   display: flex;
   gap: 10px;
   z-index: 10;

@@ -34,7 +34,8 @@ whatsnew:
     linkText: 在「更新内容」页看详细版
 
 carousel:
-  - src: /ss1a.webp
+  - src: /ss1.webp
+    caption: 基地一隅
   - src: /ss2.webp
     caption: 工业园区
   - src: /Sn1paste_2026-01-18_19-41-33.webp

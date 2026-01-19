@@ -18,14 +18,68 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/1Sekai.webp',
 
-    /* search: {
-      provider: 'algolia',
+    // 本地搜索配置（支持中文）
+    search: {
+      provider: 'local',
       options: {
-        appId: '8PVBU80YYV',
-        apiKey: '2bcbf150eb71ec66ceeee9d5b33600ba',
-        indexName: 'sekai_1dot_cat_8pvbu80yyv_pages'
+        detailedView: true,
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: '搜索',
+                buttonAriaLabel: '搜索'
+              },
+              modal: {
+                displayDetails: '显示详细列表',
+                resetButtonTitle: '清除搜索',
+                backButtonTitle: '关闭搜索',
+                noResultsText: '没有找到相关结果',
+                footer: {
+                  selectText: '选择',
+                  selectKeyAriaLabel: 'Enter',
+                  navigateText: '切换',
+                  navigateUpKeyAriaLabel: '上箭头',
+                  navigateDownKeyAriaLabel: '下箭头',
+                  closeText: '关闭',
+                  closeKeyAriaLabel: 'Esc'
+                }
+              }
+            }
+          }
+        },
+        // 优化中文搜索 - 支持正文内容检索
+        miniSearch: {
+          options: {
+            // 中文分词：将中文字符逐字拆分，英文按空格/标点分词
+            tokenize: (text) => {
+              const segmenter = Intl.Segmenter && new Intl.Segmenter('zh-CN', { granularity: 'word' })
+              if (segmenter) {
+                return [...segmenter.segment(text)]
+                  .filter(s => s.isWordLike)
+                  .map(s => s.segment.toLowerCase())
+              }
+              // 降级方案：中文逐字拆分 + 英文按空格分词
+              return text
+                .toLowerCase()
+                .split(/[\s\-.,;:!?'"()[\]{}|<>@#$%^&*+=~`\\/]+/u)
+                .flatMap(word => {
+                  // 如果包含中文，逐字拆分
+                  if (/[\u4e00-\u9fa5]/.test(word)) {
+                    return word.split('')
+                  }
+                  return word ? [word] : []
+                })
+            }
+          },
+          searchOptions: {
+            fuzzy: 0.2,
+            prefix: true,
+            boost: { title: 4, text: 2, titles: 1 }
+          }
+        }
       }
-    },*/
+    },
 
     outline: {
       label: '在这一页',
@@ -35,6 +89,33 @@ export default defineConfig({
     docFooter: {
       prev: '上一页',
       next: '下一页'
+    },
+
+    // 移动端标签汉化
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式',
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '返回顶部',
+    langMenuLabel: '切换语言',
+    skipToContentLabel: '跳转到内容',
+
+    // 最后更新时间
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
+    },
+
+    // 404 页面文本（如果启用）
+    notFound: {
+      title: '页面未找到',
+      quote: '您访问的页面不存在，请检查链接是否正确。',
+      linkLabel: '返回首页',
+      linkText: '返回首页',
+      code: '404'
     },
 
     nav: [

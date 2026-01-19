@@ -153,9 +153,10 @@
   left: 0;
   right: 0;
   bottom: 0;
+  /*background-image: url('/screenshots/ss1a.webp');*/
   background-image: url('https://zh.minecraft.wiki/images/Mounts_of_Mayhem_Key_Art.png');
   background-size: cover;
-  background-position: center top;
+  background-position: center 23%;
   background-repeat: no-repeat;
   opacity: 0.15;
   z-index: -1;
@@ -165,6 +166,8 @@
 
 .dark .VPHero::before {
   opacity: 0.25;
+  /*background-image: url('/screenshots/基地一隅.webp');*/
+  background-image: url('https://zh.minecraft.wiki/images/Mounts_of_Mayhem_Key_Art.png');
 }
 
 @media (min-width: 960px) {
@@ -422,4 +425,106 @@
 .dark .VPFeature .box .icon {
   background-color: #33363D !important;
   box-shadow: inset 0 3px rgba(0, 0, 0, 0.1) !important;
+}
+
+.home.top .DocSearch-Button {
+  /*border: 1px solid #caccd4 !important;*/
+  background-color: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(4px);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02),
+    0 6px 16px rgba(0, 0, 0, 0.02);
+}
+
+.dark .home.top .DocSearch-Button {
+  /*border: 1px solid #1E1E1F !important;*/
+  background-color: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(4px);
+  box-shadow: none;
+}
+
+.VPSwitch {
+  transform: scale(1.1) !important;
+}
+
+.is-active .indicator {
+  background-color: var(--vp-c-brand-1) !important;
+}
+
+/* --------------------------------------------------------------------------
+   Search Split Layout - 搜索分栏布局
+   -------------------------------------------------------------------------- */
+
+/* 分栏容器 */
+.VPLocalSearchBox .search-split-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  overflow: hidden;
+  flex: 1;
+  min-height: 0;
+}
+
+/* 本地搜索容器 */
+.VPLocalSearchBox .local-search-container {
+  flex: 1;
+  overflow-y: auto;
+  min-height: 0;
+}
+
+/* Wiki 搜索容器 - 移动端在下方 */
+.VPLocalSearchBox .wiki-search-container {
+  border-top: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg);
+  max-height: 260px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 调整原有 results 样式 */
+.VPLocalSearchBox .local-search-container .results {
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+/* PC 宽屏左右分栏 */
+@media (min-width: 960px) {
+
+  /* 扩大搜索框宽度 */
+  .VPLocalSearchBox .shell {
+    width: min(100vw - 60px, 1000px) !important;
+  }
+
+  /* 左右分栏布局 */
+  .VPLocalSearchBox .search-split-container {
+    flex-direction: row;
+    gap: 0;
+  }
+
+  /* 本地搜索区域 - 左侧 */
+  .VPLocalSearchBox .local-search-container {
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* Wiki 搜索区域 - 右侧 */
+  .VPLocalSearchBox .wiki-search-container {
+    width: 300px;
+    flex-shrink: 0;
+    border-top: none;
+    border-left: 1px solid var(--vp-c-divider);
+    max-height: none;
+  }
+}
+
+/* 大屏幕进一步扩展 */
+@media (min-width: 1200px) {
+  .VPLocalSearchBox .shell {
+    width: min(100vw - 60px, 1100px) !important;
+  }
+
+  .VPLocalSearchBox .wiki-search-container {
+    width: 340px;
+  }
 }

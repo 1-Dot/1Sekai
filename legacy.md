@@ -1,18 +1,59 @@
 # 关于上周目
 
-> [!NOTE] 未来更新计划
-> 有计划并立于当前服务器重新开设，具体形式尚未研究
-
 > [!TIP] 迁移你的装饰建筑到新周目
-> 你的创意不必变成留在上一年和单人存档中的遗憾，你可以将它们带到新周目来！上周目装饰性建筑的拥有者在新周目的地图上选择一个喜欢的地方，联系 1Dot 可以无条件将你上周目的建筑原样搬家过来。
+> 你可以将你的创意带到新周目来！在新周目选择一个喜欢的地方，@1Dot 用投影直接迁移过来
 
 上周目（2024 年夏到 2025 年夏）的旧存档已上传至 QQ 群文件，其为分割成 2 份的 7z 文件，请使用 7Zip 或 NanaZip 等支持的软件解压，放到你游戏的 `saves` 文件夹下。
 
 支持的平台为 Java 1.21.6，更高或更低版本能正常打开的话也可；基岩版很遗憾不支持直接打开，可以试试一些转换工具。
 
-## 建筑大赏
+## 图库
 
-待更新
+### 樱花庄
+
+![](/screenshots/一周目·樱花庄1.webp)
+
+![](/screenshots/一周目·樱花庄2.webp)
+
+@1Dot, smart_caviar，Ginger_Kay，LoliFkYeah，Siphercase, hsll_233，JianLG等
+
+1Sekai 灯牌、Celeste 草莓等：@Siphercase
+
+美西螈下界门、鸟居下界门、樱初音：@1Dot
+
+未完成的大樱花树：@KAORU_SAMA
+
+重音 TETO：@kazehayakiru
+
+樱花信标塔等：@Ginger_Kay
+
+小鸟游星野（待截图）：@ChuXing333
+
+### 石头城
+
+![](/screenshots/一周目·石头城@Mando,ChuoDi,JianLG.webp)
+
+@Mando, ChuoDi, JianLG等
+
+基础建筑等：@ChuoDi
+
+城墙：@JianLG
+
+歼星舰等：@Mando
+
+山后建筑待整理
+
+### 独立建筑
+
+![](/screenshots/一周目·苍白之园传送门@kazehayakiru.webp)
+苍白之园传送门@kazehayakiru
+
+![](/screenshots/一周目·曲奇府@cookie11209.webp)
+曲奇府@cookie11209
+
+### 公共建筑
+
+![](/screenshots/一周目·末地交易所.webp)
 
 ## 获取原库存、进度、统计数据
 

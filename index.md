@@ -34,18 +34,34 @@ whatsnew:
     linkText: 在「更新内容」页看详细版
 
 carousel:
-  - src: /ss1.webp
+  - src: /screenshots/基地一隅.webp
     caption: 基地一隅
-  - src: /ss2.webp
+  - src: /screenshots/一周目·樱花庄1.webp
+    caption: 一周目·樱花庄1
+  - src: /screenshots/一周目·樱花庄2.webp
+    caption: 一周目·樱花庄2
+  - src: /screenshots/工业园区.webp
     caption: 工业园区
-  - src: /Sn1paste_2026-01-18_19-41-33.webp
-    caption: 公告板背面
-  - src: /ss3.webp
+  - src: "/screenshots/一周目·石头城@Mando,ChuoDi,JianLG.webp"
+    caption: 一周目·石头城@Mando,ChuoDi,JianLG
+  - src: /screenshots/公告板@Siphercase.webp
+    caption: 公告板@Siphercase
+  - src: /screenshots/一周目·苍白之园传送门@kazehayakiru.webp
+    caption: 一周目·苍白之园传送门@kazehayakiru
+  - src: /screenshots/海上村庄.webp
+    caption: 海上村庄
+  - src: /screenshots/沙漠浴场.webp
     caption: 沙漠浴场
-  - src: /nether.webp
+  - src: /screenshots/一周目·曲奇府@cookie11209.webp
+    caption: 一周目·曲奇府@cookie11209
+  - src: /screenshots/下界圣所与石英平原.webp
     caption: 下界圣所与石英平原
-  - src: /end.webp
+  - src: /screenshots/末地村庄.webp
     caption: 末地村庄
+  - src: /screenshots/末地交易所.webp
+    caption: 末地交易所
+  - src: /screenshots/一周目·末地交易所.webp
+    caption: 一周目·末地交易所
   # 添加更多截图示例：
   # - src: /screenshot2.webp
   #   alt: 下界风景

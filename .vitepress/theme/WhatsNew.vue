@@ -304,7 +304,10 @@ onUnmounted(() => {
               </svg>
             </button>
 
-            <!-- 指示点 -->
+            <!-- 指示器 -->
+            <div v-if="carouselImages.length > 1" class="carousel-counter">
+              {{ displayIndex + 1 }} / {{ carouselImages.length }}
+            </div>
             <div v-if="carouselImages.length > 1" class="carousel-dots">
               <button v-for="(_, index) in carouselImages" :key="index" class="carousel-dot"
                 :class="{ active: displayIndex === index }" @click="goToSlide(index)"
@@ -588,13 +591,41 @@ onUnmounted(() => {
   /*left: 50%;
   transform: translateX(-50%);*/
   right: 20px;
-  display: flex;
-  gap: 10px;
+  display: none;
+  gap: 8px;
   z-index: 10;
   padding: 8px;
   background: rgba(0, 0, 0, 0.25);
   border-radius: 20px;
   backdrop-filter: blur(8px);
+}
+
+@media (min-width: 640px) {
+  .carousel-dots {
+    display: flex;
+  }
+}
+
+/* 移动端页码计数器 */
+.carousel-counter {
+  position: absolute;
+  bottom: 12px;
+  right: 18px;
+  z-index: 10;
+  padding: 4px 10px;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  pointer-events: none;
+}
+
+@media (min-width: 640px) {
+  .carousel-counter {
+    display: none;
+  }
 }
 
 .carousel-dot {

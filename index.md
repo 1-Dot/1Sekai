@@ -15,8 +15,8 @@ hero:
       text: 看看 1Sekai Wiki
       link: /overview
     - theme: brand
-      text: 网页地图
-      link: http://mc.1dot.cat:1145
+      text: 在线地图
+      link: /map
     - theme: alt
       text: 加入 QQ 群
       link: https://qm.qq.com/q/AyERclmhUc
@@ -34,12 +34,14 @@ whatsnew:
     linkText: 在「更新内容」页看详细版
 
 carousel:
-  - src: /screenshots/基地一隅.webp
-    caption: 基地一隅
+  - src: /screenshots/1Hub.webp
+    caption: Database @Siphercase
   - src: /screenshots/一周目·樱花庄1.webp
     caption: 一周目·樱花庄1
   - src: /screenshots/一周目·樱花庄2.webp
     caption: 一周目·樱花庄2
+  - src: /screenshots/基地一隅.webp
+    caption: 基地一隅 @shyzj666666,Siphercase
   - src: /screenshots/工业园区.webp
     caption: 工业园区
   - src: "/screenshots/一周目·石头城@Mando,ChuoDi,JianLG.webp"

@@ -93,8 +93,8 @@ export default defineConfig({
 
     // 移动端标签汉化
     darkModeSwitchLabel: '主题',
-    lightModeSwitchTitle: '切换到浅色模式',
-    darkModeSwitchTitle: '切换到深色模式',
+    lightModeSwitchTitle: '/time set day',
+    darkModeSwitchTitle: '/time set night',
     sidebarMenuLabel: '菜单',
     returnToTopLabel: '返回顶部',
     langMenuLabel: '切换语言',
@@ -125,7 +125,7 @@ export default defineConfig({
       { text: '模组', link: '/mods' },
       { text: '数据包', link: '/dp' },
       { text: '新物品', link: '/custom' },
-      { text: '网页地图', link: 'http://mc.1dot.cat:1145' }
+      { text: '在线地图', link: '/map' }
     ],
 
     sidebar: [

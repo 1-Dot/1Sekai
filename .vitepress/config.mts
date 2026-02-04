@@ -122,8 +122,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '1Sekai Wiki', link: '/overview' },
       { text: '更新内容', link: '/whatsnew' },
-      { text: '模组', link: '/mods' },
-      { text: '数据包', link: '/dp' },
+      { text: '模组数据包', link: '/addons' },
       { text: '新物品', link: '/custom' },
       { text: '在线地图', link: '/map' }
     ],
@@ -140,9 +139,8 @@ export default defineConfig({
       {
         text: '小内容介绍',
         items: [
-          { text: '模组', link: '/mods' },
-          { text: '数据包', link: '/dp' },
-          { text: '资源包', link: '/rp' }
+          { text: '模组和数据包', link: '/addons' },
+          { text: '资源包', link: '/resource' }
         ]
       },
       {
@@ -150,10 +148,10 @@ export default defineConfig({
         items: [
           { text: '农夫乐事', link: '/delight' },
           { text: '地牢与酒馆', link: '/dnt' },
-          { text: 'Friends & Foes', link: '/fnf' },
+          { text: '更多生物', link: '/mobs' },
           { text: 'Stellarity 末地', link: '/stellarity' },
           { text: 'Incendium 下界', link: '/incendium' },
-          { text: '其他自定义物品', link: '/custom' },
+          { text: '其他新物品', link: '/custom' },
         ]
       }
     ],

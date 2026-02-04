@@ -56,7 +56,7 @@
 
 **以上一行不再有效，感谢 [@Siphercase](https://space.bilibili.com/470015917) 提供的新的服务器硬件！**
 
-为游玩体验综合考虑，请不要搭建伪和平装置
+为游玩体验综合考虑，请**不要**搭建伪和平装置
 
 可能会定期重置无用区块来引入新内容和刷新已被探索结构
 
@@ -80,7 +80,7 @@
 在 [sekai.1dot.cat/map](/map) 可查看已生成的区块以及实时玩家坐标
 
 > [!TIP] 客户端玩家定位
-> 如果你在客户端使用 Xaero 的世界地图，可以安装 [Remote Player Waypoints for Xaero's Map](https://modrinth.com/mod/remote-player-waypoints-for-xaeros-map) 将基于网页地图的实时玩家坐标集成到你的客户端看，地图类型选择 Squaremap
+> 如果你在客户端使用 Xaero 的世界地图，可以安装 [Remote Player Waypoints for Xaero's Map](https://modrinth.com/mod/remote-player-waypoints-for-xaeros-map) 将基于网页地图的实时玩家坐标集成到你的客户端看，地图类型选择 Squaremap，地图地址填写 `mc.1dot.cat:11450`
 
 ## QQ 群「1Sekai MC」
 

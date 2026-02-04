@@ -2,7 +2,7 @@
 
 这些都是服务端模组，对客户端没有任何强制要求，你可以使用已经按自己的口味调配好的 1.21.11 客户端直接加入
 
-[Friends & Foes](/fnf.md)、[农夫乐事](/delight.md) 模组体量较大，移至侧栏单独页面介绍；[Stellarity 末地](/stellarity.md)、[Incendium 下界](/incendium.md)、[Dungeons and Taverns](/dnt.md) 数据包体量过大，移至侧栏单独页面介绍
+[Friends & Foes 和 Tom's Mobs](/mobs.md)、[农夫乐事](/delight.md) 模组体量较大，移至侧栏单独页面介绍；[Stellarity 末地](/stellarity.md)、[Incendium 下界](/incendium.md)、[Dungeons and Taverns](/dnt.md) 数据包体量过大，移至侧栏单独页面介绍
 
 添加了自定义方块和物品的更多内容均移至侧栏 [其他服务端新物品](/custom.md) 介绍
 

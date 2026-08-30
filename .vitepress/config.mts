@@ -159,6 +159,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'bilibili', link: 'https://space.bilibili.com/180186596' },
       { icon: 'discord', link: 'https://discord.gg/Kh3djKZ6Jp' },
+      { icon: 'modrinth', link: 'https://modrinth.com/user/1Dot' },
       { icon: 'qq', link: 'https://qm.qq.com/q/AyERclmhUc' }
     ],
 

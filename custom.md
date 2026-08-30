@@ -121,7 +121,7 @@
 
 ![](https://cdn.modrinth.com/data/cached_images/f2a72e1dc7c6cf4e3d249906fbc84bccbde37da6.png)
 
-## 建筑手杖 Construction Wand
+<!--## 建筑手杖 Construction Wand
 
 请先参阅 [Modrinth 页面](https://modrinth.com/mod/construction-wand) 或 MC 百科，此部分稍后继续更新
 
@@ -141,7 +141,7 @@
 
 ![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting5.png)
 
-![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting6.png)
+![](https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting6.png)-->
 
 ## 即将加入
 

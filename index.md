@@ -4,12 +4,11 @@ layout: home
 
 hero:
   name: 1Sekai Server
-  text: Minecraft 1.21.11
+  text: Minecraft 26.2
   image:
-    src: /Title.webp
+    src: /Titlenew.png
   tagline: |
-    已跟进至群骑纷争，服务端内容更新
-    by @1Dot
+    已跟进至混沌立方，服务端内容更新
   actions:
     - theme: brand
       text: 看看 1Sekai Wiki
@@ -72,20 +71,20 @@ carousel:
   #   alt: 末地风景
   #   caption: Stellarity 末地
 
-features:
+#features:
 # - icon: 🤯
 #    title: 杂项
 #    details: Carpet Mod 及其扩展的支持<br>实时更新的在线文档和网页地图<br>集成可与 QQ 群聊联动的 1Bot 机器人
-  - icon: 🧊
-    title: 香草
-    details: 冒险 & 建筑 & 生电，无领地无商店<br>不限正版不设前置 MOD，保证原版可进<br>尽可能追版本，体验最新版本特性
-  - icon: 🩵
-    title: 养老
-    details: 漫游 CliffTree 重构的主世界，使用路石快速传送<br>使用大量家具、装饰物甚至自定义图像构筑自己的建筑
-  - icon: ⚔️
-    title: 冒险
-    details: 挑战 Incendium 完全重塑的下界<br>探索 Stellarity 的末地和系列物品<br>在 Dungeons & Taverns 的新结构中试炼或小憩
-  - icon: 🤯
-    title: 扩展
-    details: 丰富QOL模组拓展，大量实用功能<br>精选扩展数据包，不影响原汁原味体验<br>聊天机器人、文档、在线地图支持
+#  - icon: 🧊
+#    title: 香草
+#    details: 冒险 & 建筑 & 生电，无领地无商店<br>不限正版不设前置 MOD，保证原版可进<br>尽可能追版本，体验最新版本特性
+#  - icon: 🩵
+#    title: 养老
+#    details: 漫游 CliffTree 重构的主世界，使用路石快速传送<br>使用大量家具、装饰物甚至自定义图像构筑自己的建筑
+#  - icon: ⚔️
+#    title: 冒险
+#    details: 挑战 Incendium 完全重塑的下界<br>探索 Stellarity 的末地和系列物品<br>在 Dungeons & Taverns 的新结构中试炼或小憩
+#  - icon: 🤯
+#    title: 扩展
+#    details: 丰富QOL模组拓展，大量实用功能<br>精选扩展数据包，不影响原汁原味体验<br>聊天机器人、文档、在线地图支持
 ---

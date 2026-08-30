@@ -154,9 +154,9 @@
   right: 0;
   bottom: 0;
   /*background-image: url('/screenshots/ss1a.webp');*/
-  background-image: url('https://zh.minecraft.wiki/images/Mounts_of_Mayhem_Key_Art.png');
+  background-image: url('https://zh.minecraft.wiki/images/Chaos_Cubed_Key_Art.png');
   background-size: cover;
-  background-position: center 23%;
+  background-position: center 18%;
   background-repeat: no-repeat;
   opacity: 0.15;
   z-index: -1;
@@ -167,7 +167,7 @@
 .dark .VPHero::before {
   opacity: 0.25;
   /*background-image: url('/screenshots/基地一隅.webp');*/
-  background-image: url('https://zh.minecraft.wiki/images/Mounts_of_Mayhem_Key_Art.png');
+  background-image: url('https://zh.minecraft.wiki/images/Chaos_Cubed_Key_Art.png');
 }
 
 @media (min-width: 960px) {

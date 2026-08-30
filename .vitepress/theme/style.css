@@ -528,3 +528,7 @@
     width: 340px;
   }
 }
+
+.vp-doc img {
+  margin: 0;
+}

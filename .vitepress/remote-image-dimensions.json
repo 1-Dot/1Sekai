@@ -1,0 +1,918 @@
+{
+  "https://cdn.modrinth.com/data/cached_images/a8f6c01c75fb2b6a29669334740e01099a8adbed.png": {
+    "width": 484,
+    "height": 256
+  },
+  "https://cdn.modrinth.com/data/cached_images/a46a47cd011454c9ad4d22dc3fb188bbdddf615c.png": {
+    "width": 484,
+    "height": 256
+  },
+  "https://cdn.modrinth.com/data/4TZZFHd4/images/3f3593c5e37ecfed34c49e569989a7c2fac51d26.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://cdn.modrinth.com/data/dMOPQTBa/images/9b56bbfc93ede2c51e940571687ef89bf5c3db64.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://cdn.modrinth.com/data/4TZZFHd4/images/ece8db0e0fdfb0d66c9695fb5c9ac46ccaa7ab58.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://cdn.modrinth.com/data/4TZZFHd4/images/a5d399d29018d1f569f4a058baca777a5e66a7f6.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://cdn.modrinth.com/data/4TZZFHd4/images/5af825e1beafa14652ef4c2eb64028ae2645591e.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://cdn.modrinth.com/data/cached_images/f2a72e1dc7c6cf4e3d249906fbc84bccbde37da6.png": {
+    "width": 1405,
+    "height": 1327
+  },
+  "https://cdn.modrinth.com/data/5710VC7f/images/6f8ae29b5268773c5bb48268c5f806ba902c3698.png": {
+    "width": 1920,
+    "height": 991
+  },
+  "https://cdn.modrinth.com/data/4TZZFHd4/images/23e6b4de8da0c4c077f79dda5411b537894b59ad.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://cdn.modrinth.com/data/msOhd0jl/images/e322fcca03f9d518e77022dd77ba8ba99f520762.png": {
+    "width": 1920,
+    "height": 1012
+  },
+  "https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting1.png": {
+    "width": 250,
+    "height": 138
+  },
+  "https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting2.png": {
+    "width": 250,
+    "height": 140
+  },
+  "https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting4.png": {
+    "width": 250,
+    "height": 138
+  },
+  "https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting3.png": {
+    "width": 250,
+    "height": 138
+  },
+  "https://cdn.modrinth.com/data/dMOPQTBa/images/d6713e222c5c48853fa5ebece6fdedcbdaed33c0.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting6.png": {
+    "width": 248,
+    "height": 138
+  },
+  "https://raw.githubusercontent.com/Theta-Dev/ConstructionWand/1.19/images/crafting5.png": {
+    "width": 244,
+    "height": 137
+  },
+  "https://i.imgur.com/NvAriVE.png": {
+    "width": 769,
+    "height": 429
+  },
+  "https://i.imgur.com/wqSocVR.png": {
+    "width": 408,
+    "height": 111
+  },
+  "https://user-images.githubusercontent.com/5566692/235523231-c172da50-b8c6-4b55-b80c-0fcc10615eac.png": {
+    "width": 356,
+    "height": 68
+  },
+  "https://user-images.githubusercontent.com/5566692/235523200-91aea71d-1330-447f-865f-f481f372c797.png": {
+    "width": 356,
+    "height": 68
+  },
+  "https://i.imgur.com/2N4PMBp.png": {
+    "width": 446,
+    "height": 137
+  },
+  "https://i.imgur.com/1bKoLut.png": {
+    "width": 1207,
+    "height": 416
+  },
+  "https://cdn.modrinth.com/data/DLsxkJLC/images/ef28a2beebbfb9c8b19ced0568937483a5e42287.png": {
+    "width": 1328,
+    "height": 518
+  },
+  "https://i.imgur.com/sttwEKi.png": {
+    "width": 547,
+    "height": 516
+  },
+  "https://i.imgur.com/i0kj8RZ.png": {
+    "width": 459,
+    "height": 362
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/1ea33d4b7466cfd9f0636087384758fd2b25c7c7_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://i.imgur.com/h1l3Uvc.png": {
+    "width": 1156,
+    "height": 670
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/4425a4ee3314d84b0bbe764d87f105a10fa132dc_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/3e411b7bb17c947f4715407df9559f8918ffd51a_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/0f032349878692e3c5218dfab21180e0da499b76_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/1d3502e3f6267f51f31f3052d1d777dc545404e2_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/23969057f32124591f61c69feec516320fcf6965_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/64c4350272cc09de1a25bba15761d9aa4a9268ff_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/7d92bafda8ae0586a777a3fc4acc12e16c67f1ef_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/3bbba50a435ad7ed89ee55bcb822a247ad7aa8b1_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/93dc2790ee15a172f5e7a9100790dedde9ea6b35_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/9b5e943cf03211d00ce7e5cfb4e073697c29e335_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/a84b93256dddb096694ccfd34738936ae74d2ca1_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/ad9884f56eb019873c793c52e9c114601244a83f_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/3937be1a8289a32bbd780e87519a318d65d1e8f5_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/947381c26c275d20f5d454232a6631d7b860077b_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/9a91bc406081d0b2c581a44494092409e7e92e88_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/c55944ee3b90dafe32c7a2e09617620bc844e8e8_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/da8d00e00d485cddb7c6b169353d9909da528019_350.webp": {
+    "width": 350,
+    "height": 198
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/f2daf721dee07c2bf5f60826aeeda01dc849a5c0_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/f0c858562dd576e46e7453c05740db388ded2db2_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/d3edc01465923590e4abc93a94b0c5879de2c2c5.png": {
+    "width": 1920,
+    "height": 1017
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/b379c30b40de87102652f6548fe83d43c1939bce_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/6707a793e0532760e0305bda777d97a87841a4f4_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/88b960cf4fc20d3789536b4d2760c551468b82ef_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/f5a7844f166925a55ad285c3d2a1c3963f2c01ac_350.webp": {
+    "width": 350,
+    "height": 197
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/e9a0259483552bd24cb362c080bc226d0179c001_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/fa8e297e7b0250921b5c81fb344b30c69342d924_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/fdd1d51faa37fc24d2583a9a8348a2c296ebb5e2_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/c1ff164f87997bfd8a5606fa6c1517a2ca07e931_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/4385ab6f0aaa5494a2ce78daa3c9550717ac336f_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/048b4a06f670fb68af5071cc20a957e2ad06dc55_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/a2135e0e814549f1a7d9ea84c59e477a0f815b2a_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/22984905a1e5e41ef1bb07d77a1df18471448be3_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/96086c166b12883a39462eb9aac4780de50c410a_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/8bfbfce290261f31598eaf1de798306d5d67b999_350.webp": {
+    "width": 349,
+    "height": 185
+  },
+  "https://cdn.modrinth.com/data/tpehi7ww/images/9e58da0a70bd3f4eb6fa4953ea74fd24a849d501_350.webp": {
+    "width": 350,
+    "height": 188
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/9/92/Blazing_hatchet.png/32px-Blazing_hatchet.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/8/81/Daybreaker.png/32px-Daybreaker.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/f/f2/Withersbane.png/32px-Withersbane.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/f/fa/Warping_witherblade.png/32px-Warping_witherblade.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/8/86/Greatsword_of_sacrifice.png/32px-Greatsword_of_sacrifice.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/5/50/Scarlet_dagger.png/32px-Scarlet_dagger.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/d/da/Piglin_slayer.png/32px-Piglin_slayer.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/b/bd/Multiplex_crossbow.png/32px-Multiplex_crossbow.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/c/cc/Holy_wrath.png/32px-Holy_wrath.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/3/39/Sentry_s_wrath.png/32px-Sentry_s_wrath.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/4/40/Hefty_pickaxe.png/32px-Hefty_pickaxe.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/7/75/Voltaic_trident.png/32px-Voltaic_trident.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/8/89/Trailblazer.png/32px-Trailblazer.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/9/96/Firestorm.png/32px-Firestorm.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/6/65/Torch_of_lunacy.png/32px-Torch_of_lunacy.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/b/bc/Infernal_feather.png/32px-Infernal_feather.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/e/ea/Unstable_powder.png/32px-Unstable_powder.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/7/72/Scroll_of_Returning.png/32px-Scroll_of_Returning.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/7/7e/Restless_nature.png/32px-Restless_nature.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/f/f9/Infernal_wings.png/32px-Infernal_wings.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/9/9e/Scout_s_battle_helm.png/32px-Scout_s_battle_helm.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/e/e1/Hazmat_suit.png/16px-Hazmat_suit.png": {
+    "width": 16,
+    "height": 34
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/5/5c/Radiation_shield.png/16px-Radiation_shield.png": {
+    "width": 16,
+    "height": 39
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/8/81/Chilling_blade.png/32px-Chilling_blade.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/c/c0/Prismatic_shield.png/16px-Prismatic_shield.png": {
+    "width": 16,
+    "height": 39
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/d/de/Necrotic_shield.png/16px-Necrotic_shield.png": {
+    "width": 16,
+    "height": 39
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/f/fa/Miner_s_ale.png/32px-Miner_s_ale.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/1/1b/Suspicious_brew.png/32px-Suspicious_brew.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/4/44/Elixir_of_undying.png/32px-Elixir_of_undying.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://static.wikitide.net/stardustlabswiki/thumb/1/13/Death_potion.png/32px-Death_potion.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://zh.minecraft.wiki/images/GlarePixel.png": {
+    "width": 260,
+    "height": 300
+  },
+  "https://zh.minecraft.wiki/images/RascalPixel.png": {
+    "width": 148,
+    "height": 128
+  },
+  "https://zh.minecraft.wiki/images/MoobloomPixel.png": {
+    "width": 520,
+    "height": 540
+  },
+  "https://zh.minecraft.wiki/images/CopperGolemPixel.png": {
+    "width": 260,
+    "height": 350
+  },
+  "https://zh.minecraft.wiki/images/TuffGolemPixel.png": {
+    "width": 104,
+    "height": 112
+  },
+  "https://zh.minecraft.wiki/images/EntitySprite_hovering-inferno.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://zh.minecraft.wiki/images/EntitySprite_zombie-horse.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://zh.minecraft.wiki/images/EntitySprite_great-hunger.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://minecraft.wiki/images/EntitySprite_villager-farmer.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://zh.minecraft.wiki/images/IceologerPixel.png": {
+    "width": 144,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Stellarity-Logo.png": {
+    "width": 2026,
+    "height": 283
+  },
+  "https://zh.minecraft.wiki/images/EntitySprite_illusioner.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Dragon_Wings.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Champion_Chestplate.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Shulker_Chestplate.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Floral_Chestplate.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Reinforced_Horse_Armor.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Phantom_Wings.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Tamaris.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Dragonblade.png": {
+    "width": 560,
+    "height": 560
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_The_Beginning.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_The_End.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Tier_0.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Starless_Scythe.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Empress_Wings.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Tier_4.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Prismember.gif": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Kaleidoscope.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Sharanga.png": {
+    "width": 560,
+    "height": 560
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Call_of_The_Void.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Spectral_Fury.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Hallowed_Chestplate.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Stellar_Striker.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Prismatic_Punch.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Shulker_Pickaxe.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Fluffy_Hammer_of_Justice.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Sandstorm_Trident.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Chorus_Plating.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Enderite_shard.gif": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Hallowed_Ingot.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Sand_Rune.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Starlight_Soot.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Gilded_Purpur_Key.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Purpur_Key.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Winged_Key.png": {
+    "width": 560,
+    "height": 560
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Endonomicon.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Enderite_upgrade_smithing_template.gif": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Book_of_Jinx.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Book_of_Light.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Book_of_Conveyance.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Book_of_Updraft.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Book_of_Obstruct.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Book_of_Return.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Crest_of_the_end.png": {
+    "width": 199,
+    "height": 473
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Endermans_Hand.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Dragons_eye_no_anim.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Ender_insignia_no_anim.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Duskberry.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Living_Flesh.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Soaring_Insignia.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Prismatic_pearl.gif": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Satchel_of_Voids.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Phantom_Item_Frame.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Crystal_Heartfish.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Sushi.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Golden_Chorus_Fruit.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Fried_Chorus_Fruit.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Frozen_Carpaccio.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Enderman_Flesh.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Void_Pendant.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Grilled_Enderman_Flesh.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Flarefin_Koi.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Amethyst_Budfish.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Crimson_Tigerfish.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Ender_Koi.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Fleshy_Piranha.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Goosh.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Potassifish.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Overgrown_Cod.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Shulker_Body.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Prismatic_Sushi.gif": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Shepherds_Pie.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Chorus_Pie.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Prismite.gif": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Pho.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Bubblefish.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Chorus_Stew.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Candied_Chorus_Fruit.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Blind_Rage_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Endurance_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Entanglement_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Hellfire_Treader_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Frost_Cloud_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Spelunker_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Poseidon%27s_Nectar.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Regeneraga.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Honey_Bottle.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Altar_of_The_Accursed.png": {
+    "width": 509,
+    "height": 507
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Altar_of_The_Sacred.png": {
+    "width": 509,
+    "height": 564
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Ashen_Froglight.png": {
+    "width": 629,
+    "height": 700
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Ender_Grass_Block.png": {
+    "width": 454,
+    "height": 504
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Ender_Dirt.png": {
+    "width": 454,
+    "height": 504
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Ender_Dirt_Path.png": {
+    "width": 454,
+    "height": 487
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Enderite_Block.png": {
+    "width": 454,
+    "height": 504
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Pixie_in_a_Jar.png": {
+    "width": 170,
+    "height": 244
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Painting.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Lifeforce_Potion.png": {
+    "width": 160,
+    "height": 160
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Rooted_Ender_Dirt.png": {
+    "width": 454,
+    "height": 504
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Cauldron.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Netherite_Sword.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Arrow_of_Slow_Falling.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Elytra.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Fisher_of_Voids.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Bow.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Iron_Sword.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Gold_Trim_Leather_Boots.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Sand.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Red_Concrete_Powder.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Gravel.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Suspicious_Gravel.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_The_Hallow.png": {
+    "width": 153,
+    "height": 165
+  },
+  "https://prismaticshards.wiki.gg/images/EffectSprite_voided.png": {
+    "width": 18,
+    "height": 18
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Red_Sand.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Suspicious_Sand.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Purpur_Block.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_End_Wilds.png": {
+    "width": 153,
+    "height": 165
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Amethyst_Forest.png": {
+    "width": 153,
+    "height": 165
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Cherry_Leaves.png": {
+    "width": 32,
+    "height": 32
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Voided_Silverfish_Spawn_Egg.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Voided_Skeleton_Spawn_Egg.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Voided_Slime_Spawn_Egg.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Voided_Zombie_Spawn_Egg.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Empress_of_Light_Head.png": {
+    "width": 108,
+    "height": 123
+  },
+  "https://prismaticshards.wiki.gg/images/Invicon_Flesh_Piglin_Spawn_Egg.png": {
+    "width": 16,
+    "height": 16
+  },
+  "https://prismaticshards.wiki.gg/images/Red_Potion.gif": {
+    "width": 160,
+    "height": 160
+  }
+}

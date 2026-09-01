@@ -1,5 +1,6 @@
 // oxlint-disable no-unused-vars
 import { defineConfig } from 'vitepress'
+import { addRemoteImageDimensions } from './remoteImageDimensions.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,6 +9,9 @@ export default defineConfig({
   description: 'A Minecraft Server',
   cleanUrls: true,
   srcExclude: ['**/1SekaiRP-Renewed-26.2/**'],
+  markdown: {
+    config: addRemoteImageDimensions
+  },
   head: [['link', { rel: 'icon', href: '/1Sekai.webp' }], ['meta', { name: 'algolia-site-verification', content: 'CE8BBB92B9FDB1FC' }], ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.cn/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap' }]],
   locales: {
     root: {

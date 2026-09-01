@@ -298,7 +298,7 @@ DnT 的下界与地表结构设计了环环相扣的探索链条：
 
 这个要塞生成在寒冷的生物群系中，被流浪者和守卫塔占据。地表可发现较小的流浪者边防哨，箱子中带有要塞地图卷轴。
 
-![](https://cdn.modrinth.com/data/tpehi7ww/images/81b65db25341bcaca0ecd146fee3d44b6e7b29b6_350.webp)
+![](https://cdn.modrinth.com/data/tpehi7ww/images/3bbba50a435ad7ed89ee55bcb822a247ad7aa8b1_350.webp)
 
 ### 酒馆 Taverns
 
@@ -349,7 +349,7 @@ DnT 的下界与地表结构设计了环环相扣的探索链条：
 
 营地现在 66% 仍是掠夺者前哨风格，**33% 会滚成灾厄兵营**。灾厄兵营是平原里稀有的大型灾厄建筑，箱子里主要是指向其它灾厄结构的地图，会预刷一些灾厄村民。
 
-![](https://cdn.modrinth.com/data/tpehi7ww/images/c1b4dfdea49d54997a4682f798165b4cad5a50db_350.webp)
+![](https://cdn.modrinth.com/data/tpehi7ww/images/3937be1a8289a32bbd780e87519a318d65d1e8f5_350.webp)
 
 ### 苦力怕家宅遗迹 Creeper Homestead Remnant
 
@@ -432,7 +432,7 @@ DnT 的下界与地表结构设计了环环相扣的探索链条：
 
 生成于下界，作为较小的结构，包含猪灵、猪灵蛮兵和一个战利品箱。你可以在这里找到猪灵小村地图。
 
-![](https://cdn.modrinth.com/data/tpehi7ww/images/416a34a52c80374a27efe8ac5f6a4504749d4d56_350.webp)
+![](https://cdn.modrinth.com/data/tpehi7ww/images/048b4a06f670fb68af5071cc20a957e2ad06dc55_350.webp)
 
 ### 猪灵小村 Piglin Hamlet
 
@@ -456,7 +456,7 @@ DnT 的下界与地表结构设计了环环相扣的探索链条：
 
 下界港口是生成在熔岩水位的中等大小结构，周围有黑石与绯红木板步道，围绕主要港口结构，包含烈焰人试炼刷怪笼与宝藏房间。使用下界港口钥匙开启宝库可获得下界监牢地图卷轴与迅猛翱翔附魔。
 
-![](https://cdn.modrinth.com/data/tpehi7ww/images/cf5465d60ef77b08cbf3614a954401aace2f16a3_350.webp)
+![](https://cdn.modrinth.com/data/tpehi7ww/images/22984905a1e5e41ef1bb07d77a1df18471448be3_350.webp)
 
 ### 下界监牢 Nether Keep
 
